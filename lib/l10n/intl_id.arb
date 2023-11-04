@@ -1,0 +1,358 @@
+{
+  "home": "Rumah",
+  "login": "Gabung",
+  "logout": "Keluar",
+  "theName": "Nama",
+  "name": "Nama",
+  "fullName": "Nama lengkap",
+  "enterFullName": "Masukkan nama lengkapmu",
+  "phone": "Telepon",
+  "thePhone": "Teleponnya",
+  "enterPhoneCorrectly": "Masukkan ponsel Anda dengan benar",
+  "enterFullPhoneNumber": "Masukkan ponsel lengkap Anda",
+  "fantasyName": "Nama fantasi",
+  "enterCompanyName": "Masukkan nama perusahaan",
+  "email": "Surel",
+  "enterEmail": "Masukkan email Anda",
+  "enterValidEmail": "Masukkan email yang valid",
+  "emailNotFound": "Email tidak ditemukan",
+  "waitSendLinkAgain": "Tunggu untuk mengirim tautan lagi",
+  "password": "Kata sandi",
+  "thePassword": "Sebuah senha",
+  "enterPassword": "Masukkan kata sandi Anda",
+  "enterPasswordConfirmation": "Masukkan konfirmasi kata sandi",
+  "confirmPassword": "Konfirmasi password Anda",
+  "passwordsNotMatch": "Sandi tidak cocok",
+  "incorrectEmailPassword": "Email atau sandi salah",
+  "forgetPassword": "Lupa kata sandi Anda?",
+  "loginRequired": "Login dibutuhkan",
+  "errorLogin": "Kesalahan saat masuk",
+  "errorRegister": "Kesalahan saat mendaftar",
+  "save": "Menyimpan",
+  "dontHaveAccount": "Tidak punya akun?",
+  "createAccount": "Daftar",
+  "registerAsDriver": "Daftar sebagai Pengemudi",
+  "haveAnAccount": "Punya akun?",
+  "signIn": "Masuk",
+  "skipForNow": "Lewati untuk sekarang",
+  "skip": "Melewati",
+  "verifyConnection": "Verifikasi koneksi internet Anda",
+  "rememberMe": "Ingat saya",
+  "menu": "Menu",
+  "wantSignOut": "Ingin keluar?",
+  "yes": "Ya",
+  "no": "Tidak",
+  "theme": "Tema",
+  "darkTheme": "Tema gelap",
+  "lightTheme": "Tema ringan",
+  "sendLink": "Kirim tautan",
+  "linkSubmitted": "Tautan dikirim",
+  "errorSendingLink": "Kesalahan saat mengirim tautan",
+  "linkCopied": "Tautan telah disalin",
+  "rides": "Wahana",
+  "ride": "Mengendarai",
+  "noRides": "Tidak ada wahana yang ditemukan",
+  "errorGettingRide": "Kesalahan saat mendapatkan tumpangan",
+  "rideNotFound": "Perjalanan tidak ditemukan",
+  "recentRides": "Wahana terbaru",
+  "hours": "Jam",
+  "minutes": "Menit",
+  "pickup": "Ambil",
+  "table": "Meja",
+  "dateFormat": "yyyy-MM-dd",
+  "datetimeFormat": "yyyy-MM-dd HH:mm",
+  "seeFullRide": "Lihat perjalanan penuh",
+  "paymentMethod": "Cara Pembayaran",
+  "paymentStatus": "Status pembayaran",
+  "rideMethod": "Metode perjalanan",
+  "tracking": "Pelacakan",
+  "details": "rincian",
+  "products": "Produk",
+  "inProgress": "Sedang berlangsung",
+  "finalized": "Selesai",
+  "customer": "Pelanggan",
+  "value": "Jumlah",
+  "totalAmount": "Jumlah total",
+  "subtotal": "Subtotal",
+  "rideFee": "Biaya perjalanan",
+  "coupon": "Kupon",
+  "advanceStatus": "status maju",
+  "deleteLastStatus": "Hapus status terakhir",
+  "inputMinimumSize": "{fieldName} setidaknya harus {requiredSize} karakter",
+  "@inputMinimumSize": {
+    "description": "Ukuran minimum bidang",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Kata sandi"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "profile": "Profil",
+  "settings": "Pengaturan",
+  "navigation": "Navigasi",
+  "receiveRides": "Terima Perjalanan",
+  "errorUpdateStatus": "Terjadi kesalahan saat menyegarkan status, silakan coba lagi",
+  "errorChangeStatus": "Terjadi kesalahan saat mengubah status, silakan coba lagi",
+  "linkRides": "Tautan ke Wahana",
+  "yourRideValueSetByYouOrSystemDefault": "Nilai perjalanan Anda diatur oleh Anda atau Anda dapat menggunakan nilai default sistem.",
+  "next": "Lanjut",
+  "weDontProfitFromYou": "Kami tidak mengambil untung dari Anda",
+  "youReceiveWhatYouSetInYourValues": "Anda menerima persis apa yang Anda tetapkan dalam nilai Anda dan kami menambahkan sedikit biaya sebesar 10% dari jumlah yang dibayarkan oleh pelanggan.",
+  "yourLinkRideDirectlyWithYou": "Tautan Anda untuk berkendara langsung dengan Anda",
+  "sendToCustomersAlreadyTrustWorkRidesFallToYou": "Kirim ke pelanggan yang sudah mempercayai pekerjaan Anda dan dengan itu perjalanan mereka langsung jatuh ke tangan Anda.",
+  "muchMoreThoughtDriver": "Lebih banyak pemikiran untuk Anda pengemudi!",
+  "possibilityCreateRideTeamMultipleRide": "Kemungkinan untuk membuat tim perjalanan Anda dalam aplikasi, memenuhi beberapa perjalanan dan banyak lagi!",
+  "haveDriversLicenseInHandCompleteRegistration": "Sekarang miliki SIM Anda untuk menyelesaikan pendaftaran",
+  "letsStart": "Ayo mulai",
+  "selectAccountType": "Pilih Jenis Akun",
+  "proceedRegistration": "Lanjutkan ke pendaftaran",
+  "onlyRideViaLink": "Hanya naik melalui tautan",
+  "ridesLinkPanel": "Naik dengan tautan dan panel",
+  "allowsDeviceCompleteAccountReceiveRidesOrJustLink": "Entrejax memungkinkan Anda untuk memutuskan apakah Anda ingin memiliki akun lengkap dan menerima perjalanan yang dekat dengan Anda atau hanya menerima melalui tautan (kepada siapa Anda berbagi).",
+  "receiveRideEntrejaxAndLink": "Terima tumpangan dari dasbor Entrejax dan dapatkan tautan saya",
+  "receiveRideLinkOnly": "Terima tumpangan hanya melalui tautan saya",
+  "optionAutomaticallyReceiveRidesPanelAndHaveLink": "Dalam opsi ini Anda akan dapat secara otomatis menerima perjalanan dari panel Entrejax, bahkan dari pelanggan yang tidak memiliki tautan Anda, tetapi kami perlu memverifikasi dan memvalidasi dokumen Anda.",
+  "optionMustShareLink": "Dalam opsi ini, hanya pelanggan yang memiliki tautan Anda yang dapat memintanya. Anda harus membagikan tautan Anda dengan pelanggan Anda dan tidak akan muncul untuk wahana terdekat di dasbor Entrejax.",
+  "registration": "Registrasi",
+  "register": "Daftar",
+  "wantToLeaveRegistration": "Apakah Anda ingin meninggalkan pendaftaran?",
+  "exitingRegistrationDataLost": "Setelah keluar dari pendaftaran, semua data yang sudah dimasukkan akan hilang.",
+  "cancel": "Membatalkan",
+  "declareHaveReadAgreed": "Dengan mendaftar, Anda menyatakan bahwa Anda telah membaca dan menyetujui",
+  "termsUsePrivacyPolicy": "Persyaratan penggunaan dan kebijakan privasi",
+  "leave": "Meninggalkan",
+  "youDontHaveAnyRides": "Anda tidak punya tumpangan",
+  "newRideReceived": "Perjalanan Baru Diterima!",
+  "searchingRides": "Mencari Wahana",
+  "noLocationPermission": "Tidak ada izin lokasi",
+  "errorFetchingStatus": "Terjadi kesalahan saat mengambil status",
+  "errorConnectingMercadoPago": "Kesalahan saat menyambung ke Mercado Pago",
+  "errorDisconnectingAccount": "Terjadi kesalahan saat memutuskan akun",
+  "errorUpdatingSetting": "Terjadi kesalahan saat memperbarui setelan",
+  "loadMore": "Muat lebih banyak",
+  "requestedBy": "Diminta oleh",
+  "boardingAddress": "Alamat Penjemputan",
+  "rideAddress": "Alamat perjalanan",
+  "rideAddresses": "Alamat perjalanan",
+  "viewCompleteRide": "Lihat Perjalanan Lengkap",
+  "termsUse": "Syarat Penggunaan",
+  "privacyPolicy": "Kebijakan pribadi",
+  "tryAgain": "Coba lagi",
+  "support": "Mendukung",
+  "accountSupport": "Dukungan akun",
+  "disconnected": "Terputus",
+  "connected": "Terhubung",
+  "connect": "Menghubung",
+  "disconnect": "Memutuskan",
+  "connectMyMercadoPago": "Hubungkan Mercado Pago saya",
+  "waitConnecting": "Harap tunggu, sambungkan",
+  "continuee": "Melanjutkan",
+  "saveValues": "Simpan Nilai",
+  "feeEachAdditionalStop": "Biaya untuk setiap pemberhentian tambahan di rute",
+  "enterFeePerStop": "Masukkan tarif per pemberhentian",
+  "feePerStop": "Biaya per Pemberhentian",
+  "valueReturnPickupSite": "Nilai {distanceUnit} kembali ke lokasi pengambilan",
+  "@valueReturnPickupSite": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterValueReturn": "Masukkan nilai pengembalian {distanceUnit}",
+  "@enterValueReturn": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "returnDistance": "Kembalikan {distanceUnit}",
+  "@returnDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "valueAdditionalBaseDistance": "Nilai per tambahan {distanceUnit} dari jarak dasar",
+  "@valueAdditionalBaseDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterDistanceValue": "Masukkan nilai {distanceUnit}",
+  "@enterDistanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "distanceValue": "Nilai {distanceUnit}",
+  "@distanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "initialValueWithoutChargingAdditional": "{distanceUnit}(s) yang akan menjadi hak nilai awal tanpa membebankan biaya tambahan {distanceUnit}",
+  "@initialValueWithoutChargingAdditional": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterBaseDistance": "Masukkan jarak dasar",
+  "baseDistance": "Jarak dasar",
+  "amountInitiallyCharged": "Jumlah yang awalnya dibebankan",
+  "enterBaseAmount": "Masukkan jumlah dasar",
+  "baseAmount": "Jumlah dasar",
+  "attention": "Perhatian",
+  "theValuesWillResetAppBase": "Nilai yang dimasukkan akan diatur ulang ke nilai dasar aplikasi. Apakah Anda ingin melanjutkan?",
+  "useAppBaseValue": "Gunakan nilai dasar aplikasi",
+  "configureRideFeeValues": "Konfigurasikan nilai biaya perjalanan Anda",
+  "needCreditCardMachineRideMercadoPagoDiscount": "Butuh mesin kartu kredit? Naik yang dari Mercado Pago dengan diskon hingga 83% dengan mengetuk di sini",
+  "activateOfflinePaymentDebitCard": "Aktifkan Pembayaran Offline dengan Kartu Debit (Anda harus memiliki mesin Anda)",
+  "activateOfflinePaymentCreditCard": "Aktifkan Pembayaran Offline dengan Kartu Kredit (Anda harus memiliki mesin Anda)",
+  "activateCashPayment": "Aktifkan Pembayaran Tunai",
+  "activateOnlyPaymentMercadoPago": "Aktifkan Pembayaran Online dengan Mercado Pago (pembayaran dikirim langsung ke akun Mercado Pago yang terhubung di atas)",
+  "settingHaveBeenSaved": "Pengaturan telah disimpan",
+  "errorUpdatingPaymentMethods": "Terjadi kesalahan saat memperbarui metode pembayaran",
+  "agree": "Setuju",
+  "disagree": "Tidak setuju",
+  "noPermissions": "tidak ada izin",
+  "appCollectsLocationEvenBackground": "{appName} mengumpulkan lokasi Anda saat Anda tersedia untuk perjalanan agar pelanggan dapat menemukan pengemudi terdekat bahkan saat aplikasi ditutup (di latar belakang) atau tidak digunakan.",
+  "@appCollectsLocationEvenBackground": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "locationRequired": "Lokasi Diperlukan",
+  "enableLocationContinue": "Aktifkan lokasi untuk melanjutkan",
+  "activate": "Mengaktifkan",
+  "goToSettings": "Pergi ke pengaturan",
+  "acessLocationAllTheTime": "Akses ke Lokasi Setiap Saat",
+  "allowAppAcessLocationAllTimesContinue": "Izinkan aplikasi mengakses lokasi Anda setiap saat untuk melanjutkan",
+  "clickOnAdressOpenInMap": "Klik pada alamat untuk membukanya di peta",
+  "collect": "Mengumpulkan",
+  "returnCollectLocation": "Kembali ke Lokasi Pengumpulan",
+  "boardingAddressNotProvidedContactCustomer": "Alamat penjemputan tidak diberikan, harap hubungi pelanggan.",
+  "accept": "Menerima",
+  "refuse": "Menolak",
+  "cancelRide": "Batalkan Perjalanan",
+  "finalizeRide": "Selesaikan Perjalanan",
+  "markDelivered": "Pasar seperti yang Disampaikan",
+  "passengerBoarded": "penumpang naik",
+  "rideStatus": "Status Berkendara",
+  "driverValue": "Nilai Pengemudi",
+  "appFee": "Biaya Aplikasi",
+  "note": "Catatan",
+  "returnCollectionLocation": "Kembali ke Lokasi Pengumpulan",
+  "estimatedDistance": "Perkiraan Jarak",
+  "addresses": "Alamat",
+  "select": "Pilih",
+  "returnn": "Kembali",
+  "finalize": "Menyelesaikan",
+  "rideConfirmedSelectedAddress": "Perjalanan telah dikonfirmasi ke alamat yang dipilih.",
+  "rideMarkedAs": "Perjalanan itu ditandai sebagai",
+  "rideRequiredReturningFinalizeOnlyAfterArrived": "Perjalanan membutuhkan kembali ke lokasi pengumpulan, selesaikan hanya setelah Anda tiba di lokasi.",
+  "selectWhichAddressRideMade": "Pilih ke alamat mana perjalanan itu dilakukan",
+  "rideWillBeCanceledAmountRefundedSure": "Perjalanan akan dibatalkan dan tindakan ini tidak dapat diubah. Jumlah tersebut akan dikembalikan kepada pelanggan dan kami akan memberi tahu Anda tentang pembatalan tersebut. Apakah anda yakin ingin melanjutkan?",
+  "camera": "Kamera",
+  "gallery": "Galeri",
+  "updatePhoto": "Perbarui Foto",
+  "cameraAccess": "Akses Kamera",
+  "galleryAccess": "Akses ke Galeri",
+  "allowAppAccessThe": "Izinkan aplikasi mengakses {accessType} agar dapat mengirim foto",
+  "@allowAppAccessThe": {
+    "description": "Izinkan akses",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Terjadi kesalahan saat mengirim gambar.",
+  "balanceDue": "Keseimbangan karena",
+  "pay": "Membayar",
+  "feeNotPaydOfflinePayment": "Biaya 10% belum dibayarkan untuk perjalanan dengan pembayaran offline.",
+  "failedUpdate": "Gagal memperbarui",
+  "dataUpdatedSuccessfully": "Data berhasil diperbarui",
+  "and": "dan",
+  "kilometer": "Kilometer",
+  "mile": "Mil",
+  "km": "km",
+  "mi": "mi",
+  "signinWith": "Masuk dengan {socialNetwork}",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Nomor Telepon Diperlukan",
+  "pending": "Tertunda",
+  "accepted": "Diterima",
+  "rejected": "Ditolak",
+  "collected": "Dikumpulkan",
+  "delivered": "Terkirim",
+  "cancelled": "Dibatalkan",
+  "andMoreLocations": "dan lebih banyak {quantity} lokasi",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "completed": "Lengkap",
+  "deletingYourAccont": "Menghapus akun Anda",
+  "deleteAccount": "Hapus akun",
+  "deleteMyAccount": "Hapus akun Saya",
+  "reallyWantDeleteAccontDataWillBeLost": "Apakah Anda benar-benar ingin menghapus akun Anda? Data Anda akan hilang secara permanen.",
+  "vehicleType": "Jenis kendaraan",
+  "brand": "Merek",
+  "enterVehicleBrand": "Masukkan merek kendaraan",
+  "model": "Model",
+  "enterVehicleModel": "Masukkan model kendaraan",
+  "plate": "Piring",
+  "enterVehiclePlate": "Masukkan plat kendaraan",
+  "vehicleDocument": "Dokumen kendaraan",
+  "enterVehicleDocument": "Masukkan dokumen kendaraan",
+  "driversLicensePhoto": "Foto SIM",
+  "selectVehicleType": "Pilih jenis kendaraan",
+  "back": "Kembali",
+  "approved": "Disetujui",
+  "reproved": "Ditegur",
+  "dataUnderReview": "Data Anda sedang ditinjau",
+  "dataBeingAnalyzedByTeamWait": "Data Anda sedang dianalisis oleh tim kami, tunggu saja.",
+  "needCheckSomeData": "Anda perlu memeriksa beberapa data",
+  "editData": "Edit Data",
+  "earnings": "Pendapatan",
+  "today": "Hari ini",
+  "yesterday": "Kemarin",
+  "sevenDays": "7 hari",
+  "chatWithCustomer": "Mengobrol dengan pelanggan",
+  "noMessages": "Tidak ada pesan",
+  "enterAMessage": "Masukkan pesan",
+  "registerUpdatedSuccessfully": "Daftar berhasil diperbarui",
+  "errorUpdatingRegistrationTryAgain": "Terjadi kesalahan saat memperbarui pendaftaran, harap coba lagi.",
+  "fixErrorFieldsTryAgain": "Perbaiki bidang kesalahan dan coba lagi",
+  "successfullyRegistered": "Pendaftaran berhasil",
+  "errorRegisteringTryAgain": "Kesalahan mendaftar, silakan coba lagi",
+  "waitSavingRegistration": "Harap tunggu, kami sedang menyimpan pendaftaran Anda",
+  "selectImageSource": "Pilih sumber gambar"
+}

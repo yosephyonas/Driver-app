@@ -1,0 +1,358 @@
+{
+  "home": "Heim",
+  "login": "Anmeldung",
+  "logout": "Ausloggen",
+  "theName": "Der Name",
+  "name": "Name",
+  "fullName": "Vollständiger Name",
+  "enterFullName": "Geben Sie Ihren vollständigen Namen ein",
+  "phone": "Telefon",
+  "thePhone": "Das Telefon",
+  "enterPhoneCorrectly": "Geben Sie Ihr Telefon korrekt ein",
+  "enterFullPhoneNumber": "Geben Sie Ihre vollständige Telefonnummer ein",
+  "fantasyName": "Fantasiename",
+  "enterCompanyName": "Geben Sie den Firmennamen ein",
+  "email": "Email",
+  "enterEmail": "Geben sie ihre E-Mail Adresse ein",
+  "enterValidEmail": "Geben Sie eine gültige E-Mail-Adresse ein",
+  "emailNotFound": "Email wurde nicht gefunden",
+  "waitSendLinkAgain": "Warten Sie, bis Sie den Link erneut gesendet haben",
+  "password": "Passwort",
+  "thePassword": "Ein Senha",
+  "enterPassword": "Geben Sie Ihr Passwort ein",
+  "enterPasswordConfirmation": "Passwortbestätigung eingeben",
+  "confirmPassword": "Bestätigen Sie Ihr Passwort",
+  "passwordsNotMatch": "Passwörter stimmen nicht überein",
+  "incorrectEmailPassword": "falsche Email oder Passwort",
+  "forgetPassword": "Passwort vergessen?",
+  "loginRequired": "Anmeldung erforderlich",
+  "errorLogin": "Fehler beim Einloggen",
+  "errorRegister": "Fehler bei der Registrierung",
+  "save": "Speichern",
+  "dontHaveAccount": "Sie haben kein Konto?",
+  "createAccount": "Anmelden",
+  "registerAsDriver": "Registrieren Sie sich als Fahrer",
+  "haveAnAccount": "Ein Konto haben?",
+  "signIn": "Einloggen",
+  "skipForNow": "Für jetzt überspringen",
+  "skip": "Überspringen",
+  "verifyConnection": "Überprüfen Sie Ihre Internetverbindung",
+  "rememberMe": "Erinnere dich an mich",
+  "menu": "Speisekarte",
+  "wantSignOut": "Möchten Sie sich abmelden?",
+  "yes": "Ja",
+  "no": "Nein",
+  "theme": "Thema",
+  "darkTheme": "Dunkles Thema",
+  "lightTheme": "Lichtthema",
+  "sendLink": "Link senden",
+  "linkSubmitted": "Link übermittelt",
+  "errorSendingLink": "Fehler beim Senden des Links",
+  "linkCopied": "Der Link wurde kopiert",
+  "rides": "Fahrten",
+  "ride": "Reiten",
+  "noRides": "Keine Fahrten gefunden",
+  "errorGettingRide": "Fehler beim Bekommen der Fahrt",
+  "rideNotFound": "Fahrt nicht gefunden",
+  "recentRides": "Letzte Fahrten",
+  "hours": "Std",
+  "minutes": "Protokoll",
+  "pickup": "Aufsammeln",
+  "table": "Tisch",
+  "dateFormat": "JJJJ-MM-TT",
+  "datetimeFormat": "JJJJ-MM-TT HH:mm",
+  "seeFullRide": "Vollständige Fahrt ansehen",
+  "paymentMethod": "Zahlungsmethode",
+  "paymentStatus": "Zahlungsstatus",
+  "rideMethod": "Ride-Methode",
+  "tracking": "Verfolgung",
+  "details": "Einzelheiten",
+  "products": "Produkte",
+  "inProgress": "Im Gange",
+  "finalized": "Abgeschlossen",
+  "customer": "Kunde",
+  "value": "Menge",
+  "totalAmount": "Gesamtsumme",
+  "subtotal": "Zwischensumme",
+  "rideFee": "Fahrtgebühr",
+  "coupon": "Coupon",
+  "advanceStatus": "Vorlaufstatus",
+  "deleteLastStatus": "Letzten Status löschen",
+  "inputMinimumSize": "{fieldName} muss mindestens {requiredSize} Zeichen lang sein",
+  "@inputMinimumSize": {
+    "description": "Mindestgröße des Feldes",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Passwort"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "profile": "Profil",
+  "settings": "Einstellungen",
+  "navigation": "Navigation",
+  "receiveRides": "Fahrten erhalten",
+  "errorUpdateStatus": "Beim Aktualisieren des Status ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut",
+  "errorChangeStatus": "Beim Ändern des Status ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut",
+  "linkRides": "Link zu Fahrgeschäften",
+  "yourRideValueSetByYouOrSystemDefault": "Ihr Fahrtwert wird von Ihnen festgelegt oder Sie können den Standardwert des Systems verwenden.",
+  "next": "Nächste",
+  "weDontProfitFromYou": "Wir profitieren nicht von Ihnen",
+  "youReceiveWhatYouSetInYourValues": "Sie erhalten genau das, was Sie in Ihren Werten eingestellt haben und wir addieren eine kleine Gebühr von 10% auf den vom Kunden gezahlten Betrag.",
+  "yourLinkRideDirectlyWithYou": "Ihr Link, um direkt mit Ihnen zu fahren",
+  "sendToCustomersAlreadyTrustWorkRidesFallToYou": "Senden Sie es an Kunden, die Ihrer Arbeit bereits vertrauen, und damit fallen ihre Fahrten direkt an Sie.",
+  "muchMoreThoughtDriver": "Viel mehr Gedanken für Sie Fahrer!",
+  "possibilityCreateRideTeamMultipleRide": "Möglichkeit, Ihr Fahrteam in der App zu erstellen, mehrere Fahrten durchzuführen und vieles mehr!",
+  "haveDriversLicenseInHandCompleteRegistration": "Halten Sie nun Ihren Führerschein bereit, um die Registrierung abzuschließen",
+  "letsStart": "Lasst uns beginnen",
+  "selectAccountType": "Kontotyp auswählen",
+  "proceedRegistration": "Weiter zur Registrierung",
+  "onlyRideViaLink": "Fahrten nur über den Link",
+  "ridesLinkPanel": "Fahrten per Link und Panel",
+  "allowsDeviceCompleteAccountReceiveRidesOrJustLink": "Mit Entrejax können Sie entscheiden, ob Sie ein vollständiges Konto haben und Fahrten in Ihrer Nähe erhalten möchten oder nur über den Link (mit wem Sie teilen).",
+  "receiveRideEntrejaxAndLink": "Erhalten Sie Fahrten vom Entrejax-Dashboard und haben Sie meinen Link",
+  "receiveRideLinkOnly": "Erhalten Sie Fahrten nur über meinen Link",
+  "optionAutomaticallyReceiveRidesPanelAndHaveLink": "Bei dieser Option können Sie automatisch Fahrten vom Entrejax-Panel erhalten, auch von Kunden, die Ihren Link nicht haben, aber wir müssen Ihre Dokumente überprüfen und validieren.",
+  "optionMustShareLink": "Bei dieser Option können nur Kunden, die Ihren Link haben, danach fragen. Sie müssen Ihren Link mit Ihren Kunden teilen und werden nicht für Fahrten in der Nähe auf dem Entrejax-Dashboard angezeigt.",
+  "registration": "Anmeldung",
+  "register": "Registrieren",
+  "wantToLeaveRegistration": "Möchten Sie die Registrierung verlassen?",
+  "exitingRegistrationDataLost": "Beim Verlassen der Registrierung gehen alle bereits eingegebenen Daten verloren.",
+  "cancel": "Absagen",
+  "declareHaveReadAgreed": "Mit der Registrierung erklären Sie, dass Sie unsere gelesen haben und damit einverstanden sind",
+  "termsUsePrivacyPolicy": "Nutzungsbedingungen und Datenschutzrichtlinie",
+  "leave": "Verlassen",
+  "youDontHaveAnyRides": "Du hast keine Mitfahrgelegenheiten",
+  "newRideReceived": "Neue Fahrt erhalten!",
+  "searchingRides": "Fahrten suchen",
+  "noLocationPermission": "Keine Standorterlaubnis",
+  "errorFetchingStatus": "Fehler beim Abrufen des Status",
+  "errorConnectingMercadoPago": "Fehler beim Verbinden mit Mercado Pago",
+  "errorDisconnectingAccount": "Fehler beim Trennen des Kontos",
+  "errorUpdatingSetting": "Fehler beim Aktualisieren der Einstellungen",
+  "loadMore": "Mehr laden",
+  "requestedBy": "Angefordert von",
+  "boardingAddress": "Abholadresse",
+  "rideAddress": "Fahradresse",
+  "rideAddresses": "Fahradressen",
+  "viewCompleteRide": "Komplette Fahrt anzeigen",
+  "termsUse": "Nutzungsbedingungen",
+  "privacyPolicy": "Datenschutz-Bestimmungen",
+  "tryAgain": "Versuch es noch einmal",
+  "support": "Die Unterstützung",
+  "accountSupport": "Kontounterstützung",
+  "disconnected": "Getrennt",
+  "connected": "In Verbindung gebracht",
+  "connect": "Verbinden",
+  "disconnect": "Trennen",
+  "connectMyMercadoPago": "Verbinde meinen Mercado Pago",
+  "waitConnecting": "Bitte warten, Verbindung wird hergestellt",
+  "continuee": "Fortsetzen",
+  "saveValues": "Werte speichern",
+  "feeEachAdditionalStop": "Gebühr für jeden weiteren Halt auf der Strecke",
+  "enterFeePerStop": "Geben Sie den Preis pro Haltestelle ein",
+  "feePerStop": "Gebühr pro Stopp",
+  "valueReturnPickupSite": "Wert der {distanceUnit} der Rückkehr zum Abholort",
+  "@valueReturnPickupSite": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterValueReturn": "Geben Sie den Rückgabewert {distanceUnit} ein",
+  "@enterValueReturn": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "returnDistance": "{distanceUnit} zurückgeben",
+  "@returnDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "valueAdditionalBaseDistance": "Wert pro zusätzlicher {distanceUnit} der Basisdistanz",
+  "@valueAdditionalBaseDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterDistanceValue": "Geben Sie den Wert {distanceUnit} ein",
+  "@enterDistanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "distanceValue": "{distanceUnit} Wert",
+  "@distanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "initialValueWithoutChargingAdditional": "{distanceUnit}(s), dass der Anfangswert berechtigt, ohne dass zusätzliche {distanceUnit} berechnet werden",
+  "@initialValueWithoutChargingAdditional": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterBaseDistance": "Geben Sie den Basisabstand ein",
+  "baseDistance": "Basisabstand",
+  "amountInitiallyCharged": "Ursprünglich berechneter Betrag",
+  "enterBaseAmount": "Geben Sie den Grundbetrag ein",
+  "baseAmount": "Grundbetrag",
+  "attention": "Aufmerksamkeit",
+  "theValuesWillResetAppBase": "Die eingegebenen Werte werden auf den Basiswert der App zurückgesetzt. Möchten Sie fortfahren?",
+  "useAppBaseValue": "App-Basiswert verwenden",
+  "configureRideFeeValues": "Konfigurieren Sie Ihre Fahrtgebührenwerte",
+  "needCreditCardMachineRideMercadoPagoDiscount": "Benötigen Sie einen Kreditkartenautomaten? Fahren Sie auf dem Mercado Pago mit bis zu 83 % Rabatt, indem Sie hier tippen",
+  "activateOfflinePaymentDebitCard": "Aktivieren Sie die Offline-Zahlung mit Debitkarte (Sie müssen Ihren Automaten haben)",
+  "activateOfflinePaymentCreditCard": "Aktivieren Sie die Offline-Zahlung mit Kreditkarte (Sie müssen Ihr Gerät haben)",
+  "activateCashPayment": "Barzahlung aktivieren",
+  "activateOnlyPaymentMercadoPago": "Aktivieren Sie die Online-Zahlung mit Mercado Pago (die Zahlung wird sofort an das oben verbundene Mercado Pago-Konto gesendet)",
+  "settingHaveBeenSaved": "Die Einstellungen wurden gespeichert",
+  "errorUpdatingPaymentMethods": "Beim Aktualisieren der Zahlungsmethoden ist ein Fehler aufgetreten",
+  "agree": "Zustimmen",
+  "disagree": "Nicht zustimmen",
+  "noPermissions": "Keine Berechtigungen",
+  "appCollectsLocationEvenBackground": "{appName} erfasst Ihren Standort, wenn Sie für Fahrten verfügbar sind, damit der Kunde die nächstgelegenen Fahrer finden kann, selbst wenn die Anwendung geschlossen (im Hintergrund) oder nicht verwendet wird.",
+  "@appCollectsLocationEvenBackground": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "locationRequired": "Ort Erforderlich",
+  "enableLocationContinue": "Aktivieren Sie den Standort, um fortzufahren",
+  "activate": "aktivieren Sie",
+  "goToSettings": "Gehe zu den Einstellungen",
+  "acessLocationAllTheTime": "Jederzeit Zugriff auf den Standort",
+  "allowAppAcessLocationAllTimesContinue": "Erlauben Sie der App, jederzeit auf Ihren Standort zuzugreifen, um fortzufahren",
+  "clickOnAdressOpenInMap": "Klicken Sie auf die Adresse, um sie auf der Karte zu öffnen",
+  "collect": "Sammeln",
+  "returnCollectLocation": "Kehren Sie zum Sammelort zurück",
+  "boardingAddressNotProvidedContactCustomer": "Abholadresse nicht angegeben, bitte kontaktieren Sie den Kunden.",
+  "accept": "Annehmen",
+  "refuse": "Sich weigern",
+  "cancelRide": "Fahrt stornieren",
+  "finalizeRide": "Fahrt abschließen",
+  "markDelivered": "Markt wie geliefert",
+  "passengerBoarded": "Passagier eingestiegen",
+  "rideStatus": "Fahrstatus",
+  "driverValue": "Treiberwert",
+  "appFee": "App-Gebühr",
+  "note": "Notiz",
+  "returnCollectionLocation": "Kehren Sie zum Sammelort zurück",
+  "estimatedDistance": "Geschätzte Entfernung",
+  "addresses": "Adressen",
+  "select": "Auswählen",
+  "returnn": "Zurückkehren",
+  "finalize": "Abschließen",
+  "rideConfirmedSelectedAddress": "Die Fahrt zur ausgewählten Adresse wurde bestätigt.",
+  "rideMarkedAs": "Die Fahrt war als markiert",
+  "rideRequiredReturningFinalizeOnlyAfterArrived": "Die Fahrt erfordert die Rückkehr zum Abholort und wird erst abgeschlossen, nachdem Sie am Ort angekommen sind.",
+  "selectWhichAddressRideMade": "Wählen Sie aus, zu welcher Adresse die Fahrt durchgeführt wurde",
+  "rideWillBeCanceledAmountRefundedSure": "Die Fahrt wird abgebrochen und diese Aktion ist irreversibel. Der Betrag wird dem Kunden zurückerstattet und wir werden Sie über die Stornierung informieren. Bist du dir sicher, dass du weitermachen willst?",
+  "camera": "Kamera",
+  "gallery": "Galerie",
+  "updatePhoto": "Foto aktualisieren",
+  "cameraAccess": "Kamerazugriff",
+  "galleryAccess": "Zugriff auf die Galerie",
+  "allowAppAccessThe": "Erlauben Sie der App, auf {accessType} zuzugreifen, um Fotos senden zu können",
+  "@allowAppAccessThe": {
+    "description": "Erlauben den Zugriff",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Beim Senden des Bildes ist ein Fehler aufgetreten.",
+  "balanceDue": "Restbetrag fällig",
+  "pay": "Zahlen",
+  "feeNotPaydOfflinePayment": "10 % noch nicht bezahlte Gebühr für Fahrten mit Offline-Zahlung.",
+  "failedUpdate": "Fehler beim Aktualisieren",
+  "dataUpdatedSuccessfully": "Daten erfolgreich aktualisiert",
+  "and": "und",
+  "kilometer": "Kilometer",
+  "mile": "Meile",
+  "km": "Km",
+  "mi": "Mi",
+  "signinWith": "Melden Sie sich mit {socialNetwork} an",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Telefonnummer erforderlich",
+  "pending": "Ausstehend",
+  "accepted": "Akzeptiert",
+  "rejected": "Abgelehnt",
+  "collected": "Gesammelt",
+  "delivered": "Geliefert",
+  "cancelled": "Abgesagt",
+  "andMoreLocations": "und mehr {quantity} Standorte",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "completed": "Abgeschlossen",
+  "deletingYourAccont": "Löschen Ihres Kontos",
+  "deleteAccount": "Konto löschen",
+  "deleteMyAccount": "Mein Konto löschen",
+  "reallyWantDeleteAccontDataWillBeLost": "Möchten Sie Ihr Konto wirklich löschen? Ihre Daten gehen dauerhaft verloren.",
+  "vehicleType": "Fahrzeugtyp",
+  "brand": "Marke",
+  "enterVehicleBrand": "Fahrzeugmarke eingeben",
+  "model": "Modell",
+  "enterVehicleModel": "Fahrzeugmodell eingeben",
+  "plate": "Teller",
+  "enterVehiclePlate": "Fahrzeugkennzeichen eingeben",
+  "vehicleDocument": "Fahrzeugdokument",
+  "enterVehicleDocument": "Fahrzeugdokument eingeben",
+  "driversLicensePhoto": "Führerscheinfoto",
+  "selectVehicleType": "Wählen Sie einen Fahrzeugtyp aus",
+  "back": "Der Rücken",
+  "approved": "Genehmigt",
+  "reproved": "Zurechtgewiesen",
+  "dataUnderReview": "Ihre Daten werden überprüft",
+  "dataBeingAnalyzedByTeamWait": "Ihre Daten werden von unserem Team analysiert, warten Sie einfach.",
+  "needCheckSomeData": "Sie müssen einige Daten überprüfen",
+  "editData": "Daten bearbeiten",
+  "earnings": "Verdienste",
+  "today": "Heute",
+  "yesterday": "Gestern",
+  "sevenDays": "7 Tage",
+  "chatWithCustomer": "Chatten Sie mit dem Kunden",
+  "noMessages": "Keine Nachrichten",
+  "enterAMessage": "Geben Sie eine Nachricht ein",
+  "registerUpdatedSuccessfully": "Registrierung erfolgreich aktualisiert",
+  "errorUpdatingRegistrationTryAgain": "Fehler beim Aktualisieren der Registrierung, bitte versuchen Sie es erneut.",
+  "fixErrorFieldsTryAgain": "Korrigieren Sie die Fehlerfelder und versuchen Sie es erneut",
+  "successfullyRegistered": "Erfolgreich registriert",
+  "errorRegisteringTryAgain": "Fehler bei der Registrierung, bitte versuchen Sie es erneut",
+  "waitSavingRegistration": "Bitte warten Sie, wir speichern Ihre Anmeldung",
+  "selectImageSource": "Bildquelle auswählen"
+}

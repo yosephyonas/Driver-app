@@ -1,0 +1,358 @@
+{
+    "home": "Início",
+    "login": "Login",
+    "logout": "Sair",
+    "theName": "O nome",
+    "name": "Nome",
+    "fullName": "Nome Completo",
+    "enterFullName": "Digite o nome completo",
+    "phone": "Telefone",
+    "thePhone": "O telefone",
+    "enterPhoneCorrectly": "Digite o seu telefone corretamente",
+    "enterFullPhoneNumber": "Digite o seu phone completo (ddd + número)",
+    "fantasyName": "Nome Fantasia",
+    "enterCompanyName": "Digite o nome fantasia da empresa",
+    "email": "E-mail",
+    "enterEmail": "Digite o seu e-mail",
+    "enterValidEmail": "Digite um e-mail válido",
+    "emailNotFound": "E-mail não encontrado",
+    "waitSendLinkAgain": "Aguarde para enviar o link novamente",
+    "password": "Senha",
+    "thePassword": "A senha",
+    "enterPassword": "Digite a sua senha",
+    "enterPasswordConfirmation": "Digite a confirmação de senha",
+    "confirmPassword": "Confirme sua senha",
+    "passwordsNotMatch": "As senhas não coincidem",
+    "incorrectEmailPassword": "E-mail ou senha incorretos",
+    "forgetPassword": "Esqueceu sua senha?",
+    "loginRequired": "Login necessário",
+    "errorLogin": "Falha ao realizar login",
+    "errorRegister": "Falha ao registrar",
+    "save": "Salvar",
+    "dontHaveAccount": "Não tem uma conta?",
+    "createAccount": "Criar uma conta",
+    "registerAsDriver": "Cadastrar como Entregador",
+    "haveAnAccount" : "Já possui uma conta?",
+    "signIn": "Entrar",
+    "skipForNow": "Pular por enquanto",
+    "skip": "Pular",
+    "verifyConnection": "Verifique sua conexão com a internet",
+    "rememberMe": "Lembrar-me",
+    "menu": "Menu",
+    "wantSignOut": "Você deseja se desconectar?",
+    "yes": "Sim",
+    "no": "Não",
+    "theme": "Tema",
+    "darkTheme": "Tema escuro",
+    "lightTheme": "Tema claro",
+    "sendLink": "Enviar link",
+    "linkSubmitted": "Link enviado",
+    "errorSendingLink": "Erro ao enviar link",
+    "linkCopied": "O link foi copiado",
+    "rides": "Pedidos",
+    "ride": "Pedido",
+    "noRides": "Nenhum pedido",
+    "errorGettingRide": "Falha ao buscar pedido",
+    "rideNotFound": "O pedido não foi encontrado",
+    "recentRides": "Pedidos Recentes",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "pickup": "Retirada",
+    "table": "Mesa",
+    "dateFormat": "dd/MM/yyyy",
+    "datetimeFormat": "dd/MM/yyyy HH:mm",
+    "seeFullRide": "Ver pedido completo",
+    "paymentMethod": "Método de Pagamento",
+    "paymentStatus": "Status do pagamento",
+    "rideMethod": "Método de Entrega",
+    "tracking": "Rastreamento",
+    "details": "Detalhes",
+    "products": "Produtos",
+    "inProgress": "Em progresso",
+    "finalized": "Finalizados",
+    "customer": "Client",
+    "value": "Valor",
+    "totalAmount": "Valor total",
+    "subtotal" : "Subtotal",
+    "rideFee": "Taxa de entrega",
+    "coupon": "Cupom",
+    "advanceStatus": "Avançar status",
+    "deleteLastStatus": "Excluir o último status",
+    "inputMinimumSize": "{fieldName} deve ser pelo menos de {requiredSize} caracteres",
+    "@inputMinimumSize": {
+        "description": "Mensagem do tamanho do campo customizado",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "Senha"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "profile": "Perfil",
+    "settings": "Configurações",
+    "navigation": "Navegação",
+    "receiveRides": "Receber Entregas",
+    "errorUpdateStatus": "Ocorreu um erro ao atualizar o status, tente novamente",
+    "errorChangeStatus": "Ocorreu um erro ao mudar o status, tente novamente",
+    "linkRides": "Link para Entregas",
+    "yourRideValueSetByYouOrSystemDefault": "O valor da sua corrida é definido por você ou você pode utilizar o valor padrão do sistema.",
+    "next": "Próximo",
+    "weDontProfitFromYou": "Não ganhamos\nem cima de você",
+    "youReceiveWhatYouSetInYourValues": "Você recebe exatamente o que solicitou em seus valores e nos somamos uma pequena taxa de 10% ao valor pago pelo cliente.",
+    "yourLinkRideDirectlyWithYou": "Seu link para pedirem diretamente com você",
+    "sendToCustomersAlreadyTrustWorkRidesFallToYou": "Mande para os clientes que já confiam no seu trabalho e com isso os pedidos deles caem diretamente para você.",
+    "muchMoreThoughtDriver": "Muito mais pensado para você entregador!",
+    "possibilityCreateDeliveryTeamMultipleRide": "Possibilidade de criar sua equipe de entregas dentro app, atender multiplos pedidos e muito mais!",
+    "haveDriversLicenseInHandCompleteRegistration": "Agora tenha seu CNH em mãos para preencher o cadastro",
+    "letsStart": "Vamos começar",
+    "selectAccountType": "Selecione o Tipo de Conta",
+    "proceedRegistration": "Continuar para o Cadastro",
+    "onlyRideViaLink": "Apenas pedidos pelo link",
+    "ridesLinkPanel": "Pedidos pelo link e pelo painel",
+    "allowsDeviceCompleteAccountReceiveRidesOrJustLink": "O Entrejax permite que você decida se quer ter uma conta completa e receber pedidos próximos de você ou apenas receber pedidos pelo seu link (para quem você compartilhar).",
+    "receiveRideEntrejaxAndLink": "Receber pedidos vindos do painel do Entrejax e ter meu link",
+    "receiveRideLinkOnly": "Receber pedidos pelo meu link somente",
+    "optionAutomaticallyReceiveRidesPanelAndHaveLink": "Nesta opção você poderá receber pedidos automaticamente vindos do painel do Entrejax, mesmo de clientes que não tenham seu link, porém precisaremos verificar e validar seus documentos.",
+    "optionMustShareLink": "Nesta opção somente clientes que tiverem seu link conseguirão pedir pra você. Você deverá compartilhar seu link com seus clientes e não aparecerá para corridas próximas no painel do Entrejax.",
+    "registration": "Cadastro",
+    "register": "Cadastrar",
+    "wantToLeaveRegistration": "Deseja sair do cadastro?",
+    "exitingRegistrationDataLost": "Ao sair do cadastro, todos os dados já inseridos serão perdidos.",
+    "cancel": "Cancelar",
+    "declareHaveReadAgreed": "Ao se cadastrar você afirma que leu e concorda com os nossos",
+    "termsUsePrivacyPolicy": "Termos de Uso e Política de Privacidade",
+    "leave": "Sair",
+    "youDontHaveAnyRides": "Você não tem nenhum pedido",
+    "newRideReceived": "Novo Pedido Recebido!",
+    "searchingRides": "Procurando pedidos",
+    "noLocationPermission": "Sem permissão de localização",
+    "errorFetchingStatus": "Erro ao buscar status",
+    "errorConnectingMercadoPago": "Erro ao conectar ao Mercado Mago",
+    "errorDisconnectingAccount": "Erro ao desconectar conta",
+    "errorUpdatingSetting": "Erro ao atualizar configurações",
+    "loadMore": "Carregar mais",
+    "requestedBy": "Solicitado por",
+    "boardingAddress": "Endereço de Coleta",
+    "rideAddress": "Endereço de Entrega",
+    "rideAddresses": "Endereços de Entrega",
+    "viewCompleteRide": "Ver Pedido Completo",
+    "termsUse": "Termos de Uso",
+    "privacyPolicy": "Política de Privacidade",
+    "tryAgain": "Tentar Novamente",
+    "support": "Suporte",
+    "accountSupport": "Suporte para a conta",
+    "disconnected": "Desconectado",
+    "connected": "Conectado",
+    "connect": "Conectar",
+    "disconnect": "Desconectar",
+    "connectMyMercadoPago": "Conectar meu Mercado Pago",
+    "waitConnecting": "Aguarde, conectando",
+    "continuee": "Continuar",
+    "saveValues": "Salvar Valores",
+    "feeEachAdditionalStop": "Taxa para cada parada adicional na rota",
+    "enterFeePerStop": "Digite a taxa por parada",
+    "feePerStop": "Taxa por parada",
+    "valueReturnPickupSite": "Valor do {distanceUnit} de retorno ao local de coleta",
+    "@valueReturnPickupSite": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterValueReturn": "Digite o valor do {distanceUnit} de retorno",
+    "@enterValueReturn": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "returnDistance": "{distanceUnit} Retorno",
+    "@returnDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "valueAdditionalBaseDistance": "Valor por {distanceUnit} adicional da distance base",
+    "@valueAdditionalBaseDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterDistanceValue": "Digite o valor {distanceUnit}",
+    "@enterDistanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "distanceValue": "Valor {distanceUnit}",
+    "@distanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "initialValueWithoutChargingAdditional": "{distanceUnit}(s) que o valor inicial dará direito sem cobrança de {distanceUnit} adicional",
+    "@initialValueWithoutChargingAdditional": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterBaseDistance": "Digite a distância base",
+    "baseDistance": "Distância base",
+    "amountInitiallyCharged": "Valor cobrado inicialmente",
+    "enterBaseAmount": "Digite o valor base",
+    "baseAmount": "Valor base",
+    "attention": "Atenção",
+    "theValuesWillResetAppBase": "Os valores inseridos serão redefinidos pelo valor base do app. Deseja continuar?",
+    "useAppBaseValue": "Utilizar valor base do app",
+    "configureDeliveryFeeValues": "Configure seus valores de taxa de entrega",
+    "needCreditCardMachineRideMercadoPagoDiscount": "Precisa de uma maquininha? Peça a do Mercado Pago com até 83% de desconto tocando aqui",
+    "activateOfflinePaymentDebitCard": "Ativar Pagamento Offline com Cartão de Débito (você precisa ter a sua maquininha)",
+    "activateOfflinePaymentCreditCard": "Ativar Pagamento Offline com Cartão de Crédito (você precisa ter a sua maquininha)",
+    "activateCashPayment": "Ativar Pagamento em Dinheiro",
+    "activateOnlyPaymentMercadoPago": "Ativar Pagamento Online com o Mercado Pago (o pagamento é enviado na hora para a conta do Mercado Pago conectada acima)",
+    "settingHaveBeenSaved": "As configurações foram salvas",
+    "errorUpdatingPaymentMethods": "Ocorreu um erro ao atualizar os métodos de pagamento",
+    "agree": "Concordo",
+    "disagree": "Discordo",
+    "noPermissions": "Sem permissões",
+    "appCollectsLocationEvenBackground": "O {appName} coleta a sua localização quando você está disponível para entregas para permitir que o cliente encontre o entregador mais próximo mesmo quando o aplicativo estiver fechado (em background) ou não estiver em uso.",
+    "@appCollectsLocationEvenBackground": {
+        "placeholders": {
+            "appName": {
+                "type": "String"
+            }
+        }
+    },
+    "locationRequired": "Localização Necessária",
+    "enableLocationContinue": "Ative a localização para continuar",
+    "activate": "Ativar",
+    "goToSettings": "Ir para as Configurações",
+    "acessLocationAllTheTime": "Acesso a Localização o Tempo Todo",
+    "allowAppAcessLocationAllTimesContinue": "Permita ao app acessar a sua localização o tempo todo para continuar",
+    "clickOnAdressOpenInMap": "Clique no endereço para abri-lo no mapa",
+    "collect": "Coleta",
+    "returnCollectLocation": "Retorno ao Local de Coleta",
+    "boardingAddressNotProvidedContactCustomer": "Endereço de coleta não foi fornecido, entre em contato com o cliente.",
+    "accept": "Aceitar",
+    "refuse": "Recusar",
+    "cancelRide": "Cancelar Pedido",
+    "finalizeRide": "Finalizar Pedido",
+    "markDelivered": "Marcar como Entregue",
+    "passengerBoarded": "Passageiro embarcou",
+    "rideStatus": "Status do Pedido",
+    "driverValue": "Taxa do Entregador",
+    "appFee": "Taxa do App",
+    "note": "Observação",
+    "returnCollectionLocation": "Retorno ao Local de Coleta",
+    "estimatedDistance": "Distância Estimada",
+    "addresses": "Endereços",
+    "select": "Selecionar",
+    "returnn": "Voltar",
+    "finalize": "Finalizar",
+    "rideConfirmedSelectedAddress": "A entrega foi confirmada no endereço selecionado.",
+    "rideMarkedAs": "O pedido foi marcado como",
+    "rideRequiredReturningFinalizeOnlyAfterArrived": "O pedido exige o retorno ao local de coleta, finalize apenas após ter chegado ao local.",
+    "selectWhichAddressDeliveryMade": "Selecione em qual endereço foi realizada a entrega",
+    "rideWillBeCanceledAmountRefundedSure": "O Pedido será cancelado e essa ação é irreversível. O valor será estornado para o cliente e vamos notificá-lo sobre o cancelamento. Tem certeza que deseja continuar?",
+    "camera": "Câmera",
+    "gallery": "Galeria",
+    "updatePhoto": "Atualizar Foto",
+    "cameraAccess": "Acesso a Câmera",
+    "galleryAccess": "Acesso a Galeria",
+    "allowAppAccessThe": "Permita ao app acessar a {accessType} para poder enviar fotos",
+    "@allowAppAccessThe": {
+        "description": "Allow access",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "Ocorreu um erro ao enviar a imagem",
+    "balanceDue": "Saldo Devido",
+    "pay": "Pay",
+    "feeNotPaydOfflinePayment": "Taxa de 10% ainda não paga dos pedidos com pagamento offline",
+    "failedUpdate": "Falha ao Atualizar",
+    "dataUpdatedSuccessfully": "Dados atualizados com sucesso",
+    "and": "e",
+    "kilometer": "Quilômetro",
+    "mile": "Milha",
+    "km": "km",
+    "mi": "mi",
+    "signinWith": "Login com {socialNetwork}",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "Telefone Necessário",
+    "pending": "Pendente",
+    "accepted": "Aceito",
+    "rejected": "Rejeitado",
+    "collected": "Coletado",
+    "delivered": "Entregue",
+    "cancelled": "Cancelado",
+    "andMoreLocations": "e mais {quantity} locais",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "completed": "Completado",
+    "deletingYourAccont": "Removendo sua conta",
+    "deleteAccount": "Deletar conta",
+    "deleteMyAccount": "Excluir minha conta",
+    "reallyWantDeleteAccontDataWillBeLost": "Deseja realmente deletar a sua conta? Os seus dados serão perdidos permanentemente.",
+    "vehicleType": "Tipo do veículo",
+    "brand": "Marca",
+    "enterVehicleBrand": "Digite a marca do veículo",
+    "model": "Modelo",
+    "enterVehicleModel": "Digite o modelo do veículo",
+    "plate": "Placa",
+    "enterVehiclePlate": "Digite a placa do veículo",
+    "vehicleDocument": "Documento do veículo",
+    "enterVehicleDocument": "Digite o documento do veículo",
+    "driversLicensePhoto": "Foto da licença de motorista",
+    "selectVehicleType": "Selecione um tipo de veículo",
+    "back": "Voltar",
+    "approved": "Aprovado",
+    "reproved": "Rejeitado",
+    "dataUnderReview": "Seus dados estão em análise",
+    "dataBeingAnalyzedByTeamWait": "Seus dados estão sendo analisados pela nossa equipe, basta aguardar.",
+    "needCheckSomeData": "Você precisa conferir alguns dados",
+    "editData": "Editar os Dados",
+    "earnings": "Ganhos",
+    "today": "Hoje",
+    "yesterday": "Ontem",
+    "sevenDays": "7 dias",
+     "chatWithCustomer": "Conversar com o cliente",
+     "noMessages": "Nenhuma mensagem",
+     "enterAMessage": "Digite uma mensagem",
+     "registerUpdatedSuccessfully": "Cadastro atualizado com sucesso",
+     "errorUpdatingRegistrationTryAgain": "Erro ao atualizar cadastro, tente novamente",
+     "fixErrorFieldsTryAgain": "Corrija os campos com erro e tente novamente",
+     "successfullyRegistered": "Cadastro realizado com sucesso",
+     "errorRegisteringTryAgain": "Erro ao realizar cadastro, tente novamente",
+     "waitSavingRegistration": "Aguarde, estamos salvando o seu cadastro",
+     "selectImageSource": "Selecione a origem da imagem"
+}

@@ -1,0 +1,358 @@
+{
+  "home": "বাড়ি",
+  "login": "প্রবেশ করুন",
+  "logout": "প্রস্থান",
+  "theName": "নাম",
+  "name": "নাম",
+  "fullName": "পুরো নাম",
+  "enterFullName": "আপনার পুরো নাম লিখুন",
+  "phone": "ফোন",
+  "thePhone": "ফোনটি",
+  "enterPhoneCorrectly": "সঠিকভাবে আপনার ফোন লিখুন",
+  "enterFullPhoneNumber": "আপনার সম্পূর্ণ ফোন লিখুন",
+  "fantasyName": "ফ্যান্টাসি নাম",
+  "enterCompanyName": "কোম্পানির নাম লিখুন",
+  "email": "ইমেইল",
+  "enterEmail": "তুমার ইমেইল প্রবেশ করাও",
+  "enterValidEmail": "একটি বৈধ ইমেল লিখুন",
+  "emailNotFound": "ইমেইল পাওয়া যায়নি",
+  "waitSendLinkAgain": "আবার লিঙ্ক পাঠাতে অপেক্ষা করুন",
+  "password": "পাসওয়ার্ড",
+  "thePassword": "সেনহা",
+  "enterPassword": "আপনার পাসওয়ার্ড লিখুন",
+  "enterPasswordConfirmation": "পাসওয়ার্ড নিশ্চিতকরণ লিখুন",
+  "confirmPassword": "আপনার পাসওয়ার্ড নিশ্চিত",
+  "passwordsNotMatch": "পাসওয়ার্ড মিলছে না",
+  "incorrectEmailPassword": "ভুল ইমেল বা পাসওয়ার্ড",
+  "forgetPassword": "আপনার পাসওয়ার্ড ভুলে গেছেন?",
+  "loginRequired": "লগইন প্রয়োজন",
+  "errorLogin": "লগ ইন করার সময় ত্রুটি",
+  "errorRegister": "নিবন্ধন করার সময় ত্রুটি",
+  "save": "সংরক্ষণ",
+  "dontHaveAccount": "একটি অ্যাকাউন্ট নেই?",
+  "createAccount": "নিবন্ধন করুন",
+  "registerAsDriver": "ড্রাইভার হিসাবে নিবন্ধন করুন",
+  "haveAnAccount": "একাউন্ট আছে?",
+  "signIn": "সাইন ইন করুন",
+  "skipForNow": "এখন জন্য লাফালাফি",
+  "skip": "এড়িয়ে যান",
+  "verifyConnection": "আপনার ইন্টারনেট সংযোগ যাচাই করুন",
+  "rememberMe": "আমাকে মনে কর",
+  "menu": "তালিকা",
+  "wantSignOut": "সাইন আউট করতে চান?",
+  "yes": "হ্যাঁ",
+  "no": "না",
+  "theme": "থিম",
+  "darkTheme": "গাঢ় থিম",
+  "lightTheme": "হালকা থিম",
+  "sendLink": "লিঙ্ক জমা দিন",
+  "linkSubmitted": "লিঙ্ক জমা দেওয়া হয়েছে",
+  "errorSendingLink": "লিঙ্ক পাঠাতে ত্রুটি",
+  "linkCopied": "লিঙ্ক কপি করা হয়েছে",
+  "rides": "রাইডস",
+  "ride": "রাইড",
+  "noRides": "কোনো রাইড পাওয়া যায়নি",
+  "errorGettingRide": "যাত্রায় ত্রুটি",
+  "rideNotFound": "রাইড পাওয়া যায়নি",
+  "recentRides": "সাম্প্রতিক রাইড",
+  "hours": "ঘন্টার",
+  "minutes": "মিনিট",
+  "pickup": "পিকআপ",
+  "table": "টেবিল",
+  "dateFormat": "yyyy-MM-dd",
+  "datetimeFormat": "yyyy-MM-dd HH:mm",
+  "seeFullRide": "সম্পূর্ণ রাইড দেখুন",
+  "paymentMethod": "মূল্যপরিশোধ পদ্ধতি",
+  "paymentStatus": "লেনদেনের অবস্থা",
+  "rideMethod": "রাইড পদ্ধতি",
+  "tracking": "ট্র্যাকিং",
+  "details": "বিস্তারিত",
+  "products": "পণ্য",
+  "inProgress": "চলমান",
+  "finalized": "চূড়ান্ত করা হয়েছে",
+  "customer": "ক্রেতা",
+  "value": "পরিমাণ",
+  "totalAmount": "সর্বমোট পরিমাণ",
+  "subtotal": "সাবটোটাল",
+  "rideFee": "রাইড ফি",
+  "coupon": "কুপন",
+  "advanceStatus": "অগ্রিম অবস্থা",
+  "deleteLastStatus": "শেষ স্ট্যাটাস মুছুন",
+  "inputMinimumSize": "{fieldName} অবশ্যই কমপক্ষে {requiredSize} অক্ষর দীর্ঘ হতে হবে৷",
+  "@inputMinimumSize": {
+    "description": "ক্ষেত্রের ন্যূনতম আকার",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "পাসওয়ার্ড"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "profile": "প্রোফাইল",
+  "settings": "সেটিংস",
+  "navigation": "নেভিগেশন",
+  "receiveRides": "রাইড গ্রহণ",
+  "errorUpdateStatus": "স্থিতি রিফ্রেশ করার সময় একটি ত্রুটি ঘটেছে, অনুগ্রহ করে আবার চেষ্টা করুন৷",
+  "errorChangeStatus": "স্থিতি পরিবর্তন করার সময় একটি ত্রুটি ঘটেছে, অনুগ্রহ করে আবার চেষ্টা করুন৷",
+  "linkRides": "রাইডের লিঙ্ক",
+  "yourRideValueSetByYouOrSystemDefault": "আপনার রাইড মান আপনি সেট করেছেন অথবা আপনি সিস্টেম ডিফল্ট মান ব্যবহার করতে পারেন।",
+  "next": "পরবর্তী",
+  "weDontProfitFromYou": "আমরা আপনার থেকে লাভ না",
+  "youReceiveWhatYouSetInYourValues": "আপনি আপনার মানগুলিতে ঠিক যা সেট করেছেন তা আপনি পাবেন এবং আমরা গ্রাহকের দ্বারা প্রদত্ত পরিমাণে 10% এর একটি ছোট ফি যোগ করি।",
+  "yourLinkRideDirectlyWithYou": "আপনার সাথে সরাসরি রাইড করার জন্য আপনার লিঙ্ক",
+  "sendToCustomersAlreadyTrustWorkRidesFallToYou": "এটি এমন গ্রাহকদের কাছে পাঠান যারা ইতিমধ্যেই আপনার কাজকে বিশ্বাস করে এবং তাদের রাইডগুলি সরাসরি আপনার কাছে পড়ে৷",
+  "muchMoreThoughtDriver": "আপনার জন্য আরো অনেক চিন্তা ড্রাইভার!",
+  "possibilityCreateRideTeamMultipleRide": "অ্যাপের মধ্যে আপনার রাইড টিম তৈরি করার সম্ভাবনা, একাধিক রাইড পূরণ এবং আরও অনেক কিছু!",
+  "haveDriversLicenseInHandCompleteRegistration": "রেজিস্ট্রেশন সম্পূর্ণ করতে এখন আপনার ড্রাইভিং লাইসেন্স হাতে রাখুন",
+  "letsStart": "চল শুরু করি",
+  "selectAccountType": "অ্যাকাউন্টের ধরন নির্বাচন করুন",
+  "proceedRegistration": "রেজিস্ট্রেশনে এগিয়ে যান",
+  "onlyRideViaLink": "শুধুমাত্র লিঙ্ক মাধ্যমে রাইড",
+  "ridesLinkPanel": "লিঙ্ক এবং প্যানেল দ্বারা রাইড",
+  "allowsDeviceCompleteAccountReceiveRidesOrJustLink": "Entrejax আপনাকে সিদ্ধান্ত নিতে দেয় যে আপনি একটি সম্পূর্ণ অ্যাকাউন্ট রাখতে চান এবং আপনার কাছাকাছি রাইডগুলি পেতে চান বা শুধুমাত্র লিঙ্কের মাধ্যমে গ্রহণ করতে চান (যাদের সাথে আপনি শেয়ার করেন)।",
+  "receiveRideEntrejaxAndLink": "Entrejax ড্যাশবোর্ড থেকে রাইড গ্রহণ করুন এবং আমার লিঙ্ক আছে",
+  "receiveRideLinkOnly": "শুধুমাত্র আমার লিঙ্ক মাধ্যমে রাইড গ্রহণ",
+  "optionAutomaticallyReceiveRidesPanelAndHaveLink": "এই বিকল্পে আপনি স্বয়ংক্রিয়ভাবে Entrejax প্যানেল থেকে রাইডগুলি গ্রহণ করতে সক্ষম হবেন, এমনকি এমন গ্রাহকদের কাছ থেকে যাদের কাছে আপনার লিঙ্ক নেই, কিন্তু আমাদের আপনার নথিগুলি যাচাই এবং যাচাই করতে হবে৷",
+  "optionMustShareLink": "এই বিকল্পে, শুধুমাত্র গ্রাহকরা যাদের কাছে আপনার লিঙ্ক আছে তারা এটি চাইতে পারবে। আপনাকে অবশ্যই আপনার গ্রাহকদের সাথে আপনার লিঙ্ক শেয়ার করতে হবে এবং Entrejax ড্যাশবোর্ডে কাছাকাছি রাইডের জন্য প্রদর্শিত হবে না।",
+  "registration": "নিবন্ধন",
+  "register": "নিবন্ধন",
+  "wantToLeaveRegistration": "আপনি নিবন্ধন ছেড়ে যেতে চান?",
+  "exitingRegistrationDataLost": "নিবন্ধন থেকে প্রস্থান করার পরে, ইতিমধ্যে প্রবেশ করা সমস্ত ডেটা হারিয়ে যাবে।",
+  "cancel": "বাতিল করুন",
+  "declareHaveReadAgreed": "নিবন্ধন করে, আপনি ঘোষণা করেন যে আপনি আমাদের পড়েছেন এবং সম্মত হন",
+  "termsUsePrivacyPolicy": "ব্যবহারের শর্তাবলী এবং গোপনীয়তা নীতি",
+  "leave": "ছেড়ে দিন",
+  "youDontHaveAnyRides": "আপনার কোনো রাইড নেই",
+  "newRideReceived": "নতুন রাইড গৃহীত!",
+  "searchingRides": "রাইডস অনুসন্ধান করা হচ্ছে",
+  "noLocationPermission": "অবস্থানের অনুমতি নেই",
+  "errorFetchingStatus": "স্থিতি আনার সময় ত্রুটি৷",
+  "errorConnectingMercadoPago": "Mercado Pago এর সাথে সংযোগ করার সময় ত্রুটি৷",
+  "errorDisconnectingAccount": "অ্যাকাউন্ট সংযোগ বিচ্ছিন্ন করার সময় ত্রুটি৷",
+  "errorUpdatingSetting": "সেটিংস আপডেট করার সময় ত্রুটি৷",
+  "loadMore": "আর ঢুকাও",
+  "requestedBy": "দ্বারা অনুরোধ করা হয়েছে",
+  "boardingAddress": "পিক আপের ঠিকানা",
+  "rideAddress": "যাত্রার ঠিকানা",
+  "rideAddresses": "যাত্রার ঠিকানা",
+  "viewCompleteRide": "সম্পূর্ণ রাইড দেখুন",
+  "termsUse": "ব্যবহারের শর্তাবলী",
+  "privacyPolicy": "গোপনীয়তা নীতি",
+  "tryAgain": "আবার চেষ্টা করুন",
+  "support": "সমর্থন",
+  "accountSupport": "অ্যাকাউন্ট সমর্থন",
+  "disconnected": "সংযোগ বিচ্ছিন্ন",
+  "connected": "সংযুক্ত",
+  "connect": "সংযোগ করুন",
+  "disconnect": "সংযোগ বিচ্ছিন্ন করুন",
+  "connectMyMercadoPago": "আমার Mercado Pago সংযোগ করুন",
+  "waitConnecting": "অনুগ্রহ করে অপেক্ষা করুন, সংযোগ হচ্ছে",
+  "continuee": "চালিয়ে যান",
+  "saveValues": "মান সংরক্ষণ করুন",
+  "feeEachAdditionalStop": "রুটে প্রতিটি অতিরিক্ত স্টপের জন্য ফি",
+  "enterFeePerStop": "স্টপ প্রতি হার লিখুন",
+  "feePerStop": "স্টপ প্রতি ফি",
+  "valueReturnPickupSite": "পিকআপ সাইটে ফেরার {distanceUnit} এর মান",
+  "@valueReturnPickupSite": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterValueReturn": "রিটার্নের মান লিখুন {distanceUnit}",
+  "@enterValueReturn": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "returnDistance": "প্রত্যাবর্তন {distanceUnit}",
+  "@returnDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "valueAdditionalBaseDistance": "ভিত্তি দূরত্বের অতিরিক্ত {distanceUnit} প্রতি মান",
+  "@valueAdditionalBaseDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterDistanceValue": "{distanceUnit} মান লিখুন",
+  "@enterDistanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "distanceValue": "{distanceUnit} মান",
+  "@distanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "initialValueWithoutChargingAdditional": "{distanceUnit}(গুলি) যা অতিরিক্ত {distanceUnit} চার্জ না করে প্রাথমিক মানটি এনটাইটেল করবে",
+  "@initialValueWithoutChargingAdditional": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterBaseDistance": "বেস দূরত্ব লিখুন",
+  "baseDistance": "ভিত্তি দূরত্ব",
+  "amountInitiallyCharged": "প্রাথমিকভাবে চার্জ করা পরিমাণ",
+  "enterBaseAmount": "মূল পরিমাণ লিখুন",
+  "baseAmount": "ভিত্তি পরিমাণ",
+  "attention": "মনোযোগ",
+  "theValuesWillResetAppBase": "প্রবেশ করা মানগুলি অ্যাপের মূল মানতে পুনরায় সেট করা হবে। আপনি কি অবিরত করতে চান?",
+  "useAppBaseValue": "অ্যাপ বেস মান ব্যবহার করুন",
+  "configureRideFeeValues": "আপনার রাইড ফি মান কনফিগার করুন",
+  "needCreditCardMachineRideMercadoPagoDiscount": "একটি ক্রেডিট কার্ড মেশিন প্রয়োজন? এখানে ট্যাপ করে 83% পর্যন্ত ছাড় সহ Mercado Pago থেকে রাইড করুন",
+  "activateOfflinePaymentDebitCard": "ডেবিট কার্ড দিয়ে অফলাইন পেমেন্ট সক্রিয় করুন (আপনার মেশিন থাকতে হবে)",
+  "activateOfflinePaymentCreditCard": "ক্রেডিট কার্ড দিয়ে অফলাইন পেমেন্ট সক্রিয় করুন (আপনার মেশিন থাকতে হবে)",
+  "activateCashPayment": "ক্যাশ পেমেন্ট সক্রিয় করুন",
+  "activateOnlyPaymentMercadoPago": "Mercado Pago-এর মাধ্যমে অনলাইন পেমেন্ট সক্রিয় করুন (উপরে সংযুক্ত Mercado Pago অ্যাকাউন্টে তাৎক্ষণিকভাবে অর্থপ্রদান পাঠানো হয়)",
+  "settingHaveBeenSaved": "সেটিংস সংরক্ষণ করা হয়েছে",
+  "errorUpdatingPaymentMethods": "পেমেন্ট পদ্ধতি আপডেট করার সময় একটি ত্রুটি হয়েছে৷",
+  "agree": "একমত",
+  "disagree": "অসম্মতি",
+  "noPermissions": "অনুমতি নেই",
+  "appCollectsLocationEvenBackground": "যখন আপনি রাইডের জন্য উপলব্ধ থাকেন তখন {appName} আপনার অবস্থান সংগ্রহ করে যাতে গ্রাহককে অ্যাপ্লিকেশন বন্ধ থাকা অবস্থায় (পটভূমিতে) বা ব্যবহার না করা অবস্থায়ও নিকটতম ড্রাইভার খুঁজে পেতে পারেন।",
+  "@appCollectsLocationEvenBackground": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "locationRequired": "অবস্থান প্রয়োজন",
+  "enableLocationContinue": "চালিয়ে যেতে অবস্থান সক্ষম করুন",
+  "activate": "সক্রিয় করুন",
+  "goToSettings": "সেটিংস এ যান",
+  "acessLocationAllTheTime": "সব সময় অবস্থান অ্যাক্সেস",
+  "allowAppAcessLocationAllTimesContinue": "চালিয়ে যেতে অ্যাপটিকে সর্বদা আপনার অবস্থান অ্যাক্সেস করার অনুমতি দিন",
+  "clickOnAdressOpenInMap": "মানচিত্রে এটি খুলতে ঠিকানাটিতে ক্লিক করুন",
+  "collect": "সংগ্রহ করুন",
+  "returnCollectLocation": "সংগ্রহের অবস্থানে ফিরে যান",
+  "boardingAddressNotProvidedContactCustomer": "পিকআপ ঠিকানা দেওয়া নেই, গ্রাহকের সাথে যোগাযোগ করুন.",
+  "accept": "গ্রহণ করুন",
+  "refuse": "প্রত্যাখ্যান",
+  "cancelRide": "রাইড বাতিল করুন",
+  "finalizeRide": "রাইড চূড়ান্ত করুন",
+  "markDelivered": "ডেলিভারি হিসাবে বাজার",
+  "passengerBoarded": "যাত্রী উঠল",
+  "rideStatus": "রাইড স্ট্যাটাস",
+  "driverValue": "ড্রাইভার মান",
+  "appFee": "অ্যাপ ফি",
+  "note": "বিঃদ্রঃ",
+  "returnCollectionLocation": "সংগ্রহের অবস্থানে ফিরে যান",
+  "estimatedDistance": "আনুমানিক দূরত্ব",
+  "addresses": "ঠিকানা",
+  "select": "নির্বাচন করুন",
+  "returnn": "প্রত্যাবর্তন",
+  "finalize": "চূড়ান্ত করা",
+  "rideConfirmedSelectedAddress": "নির্বাচিত ঠিকানায় রাইড নিশ্চিত করা হয়েছে।",
+  "rideMarkedAs": "রাইড হিসাবে চিহ্নিত করা হয়েছে",
+  "rideRequiredReturningFinalizeOnlyAfterArrived": "রাইডের জন্য সংগ্রহের অবস্থানে ফিরে যেতে হবে, আপনি অবস্থানে পৌঁছানোর পরেই চূড়ান্ত করুন৷",
+  "selectWhichAddressRideMade": "কোন ঠিকানায় রাইড করা হয়েছে তা নির্বাচন করুন",
+  "rideWillBeCanceledAmountRefundedSure": "রাইড বাতিল করা হবে এবং এই ক্রিয়াটি অপরিবর্তনীয়। পরিমাণ গ্রাহককে ফেরত দেওয়া হবে এবং আমরা আপনাকে বাতিল করার বিষয়ে অবহিত করব। আপনি কি চালিয়ে যেতে চান?",
+  "camera": "ক্যামেরা",
+  "gallery": "গ্যালারি",
+  "updatePhoto": "ফটো আপডেট করুন",
+  "cameraAccess": "ক্যামেরা অ্যাক্সেস",
+  "galleryAccess": "গ্যালারিতে অ্যাক্সেস",
+  "allowAppAccessThe": "ফটো পাঠাতে সক্ষম হতে অ্যাপটিকে {accessType} অ্যাক্সেস করার অনুমতি দিন",
+  "@allowAppAccessThe": {
+    "description": "ব্যবহারের অনুমতি",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "ছবিটি পাঠানোর সময় একটি ত্রুটি ছিল৷",
+  "balanceDue": "টাকা বাকী আছে",
+  "pay": "বেতন",
+  "feeNotPaydOfflinePayment": "অফলাইন পেমেন্ট সহ রাইডের জন্য 10% ফি এখনও দেওয়া হয়নি।",
+  "failedUpdate": "আপডেট করতে ব্যর্থ হয়েছে",
+  "dataUpdatedSuccessfully": "ডেটা সফলভাবে আপডেট করা হয়েছে",
+  "and": "এবং",
+  "kilometer": "কিলোমিটার",
+  "mile": "মাইল",
+  "km": "কিমি",
+  "mi": "মি",
+  "signinWith": "{socialNetwork} দিয়ে সাইন ইন করুন",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "ফোন নম্বর প্রয়োজন",
+  "pending": "বিচারাধীন",
+  "accepted": "গৃহীত",
+  "rejected": "প্রত্যাখ্যাত",
+  "collected": "সংগৃহীত",
+  "delivered": "বিতরণ করা হয়েছে",
+  "cancelled": "বাতিল",
+  "andMoreLocations": "এবং আরও {quantity} অবস্থান",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "completed": "সম্পন্ন",
+  "deletingYourAccont": "আপনার অ্যাকাউন্ট মুছে ফেলা হচ্ছে",
+  "deleteAccount": "হিসাব মুছে ফেলা",
+  "deleteMyAccount": "আমার হিসাব মুছে দিন",
+  "reallyWantDeleteAccontDataWillBeLost": "আপনি কি সত্যিই আপনার অ্যাকাউন্ট মুছে ফেলতে চান? আপনার ডেটা স্থায়ীভাবে হারিয়ে যাবে।",
+  "vehicleType": "গাড়ির ধরন",
+  "brand": "ব্র্যান্ড",
+  "enterVehicleBrand": "গাড়ির ব্র্যান্ড লিখুন",
+  "model": "মডেল",
+  "enterVehicleModel": "গাড়ির মডেল লিখুন",
+  "plate": "প্লেট",
+  "enterVehiclePlate": "গাড়ির প্লেট লিখুন",
+  "vehicleDocument": "যানবাহনের নথি",
+  "enterVehicleDocument": "গাড়ির নথি লিখুন",
+  "driversLicensePhoto": "ড্রাইভিং লাইসেন্সের ছবি",
+  "selectVehicleType": "একটি গাড়ির ধরন নির্বাচন করুন",
+  "back": "পেছনে",
+  "approved": "অনুমোদিত",
+  "reproved": "তিরস্কার করা হয়েছে",
+  "dataUnderReview": "আপনার তথ্য পর্যালোচনা করা হচ্ছে",
+  "dataBeingAnalyzedByTeamWait": "আপনার তথ্য আমাদের দল দ্বারা বিশ্লেষণ করা হচ্ছে, শুধু অপেক্ষা করুন.",
+  "needCheckSomeData": "আপনাকে কিছু ডেটা চেক করতে হবে",
+  "editData": "সম্পাদনা তথ্য",
+  "earnings": "আয়",
+  "today": "আজ",
+  "yesterday": "গতকাল",
+  "sevenDays": "7 দিন",
+  "chatWithCustomer": "গ্রাহকের সাথে চ্যাট করুন",
+  "noMessages": "কোন বার্তা নেই",
+  "enterAMessage": "একটি বার্তা লিখুন",
+  "registerUpdatedSuccessfully": "নিবন্ধন সফলভাবে আপডেট করা হয়েছে",
+  "errorUpdatingRegistrationTryAgain": "নিবন্ধন আপডেট করার সময় ত্রুটি, অনুগ্রহ করে আবার চেষ্টা করুন।",
+  "fixErrorFieldsTryAgain": "ত্রুটি ক্ষেত্র ঠিক করুন এবং আবার চেষ্টা করুন",
+  "successfullyRegistered": "সফল ভাবে নথি ভুক্ত",
+  "errorRegisteringTryAgain": "নিবন্ধন করার সময় ত্রুটি, অনুগ্রহ করে আবার চেষ্টা করুন",
+  "waitSavingRegistration": "অনুগ্রহ করে অপেক্ষা করুন, আমরা আপনার নিবন্ধন সংরক্ষণ করছি",
+  "selectImageSource": "ছবির উৎস নির্বাচন করুন"
+}

@@ -1,0 +1,358 @@
+{
+  "home": "घर",
+  "login": "लॉग इन करें",
+  "logout": "लॉग आउट",
+  "theName": "नाम",
+  "name": "नाम",
+  "fullName": "पूरा नाम",
+  "enterFullName": "अपना पूरा नाम भरें",
+  "phone": "फ़ोन",
+  "thePhone": "फोन",
+  "enterPhoneCorrectly": "अपना फ़ोन सही दर्ज करें",
+  "enterFullPhoneNumber": "अपना पूरा फोन दर्ज करें",
+  "fantasyName": "काल्पनिक नाम",
+  "enterCompanyName": "कंपनी का नाम दर्ज करें",
+  "email": "ईमेल",
+  "enterEmail": "अपना ईमेल दर्ज करें",
+  "enterValidEmail": "एक वैध ईमेल प्रविष्ट करें",
+  "emailNotFound": "ईमेल नहीं मिला",
+  "waitSendLinkAgain": "लिंक फिर से भेजने के लिए प्रतीक्षा करें",
+  "password": "पासवर्ड",
+  "thePassword": "एक सेन्हा",
+  "enterPassword": "अपना पासवर्ड डालें",
+  "enterPasswordConfirmation": "पासवर्ड पुष्टि दर्ज करें",
+  "confirmPassword": "अपने पासवर्ड की पुष्टि करें",
+  "passwordsNotMatch": "पासवर्ड मेल नहीं खाते",
+  "incorrectEmailPassword": "गलत ईमेल या पासवर्ड",
+  "forgetPassword": "अपना पासवर्ड भूल गए हैं?",
+  "loginRequired": "लॉगिन आवश्यक",
+  "errorLogin": "लॉग इन करते समय त्रुटि",
+  "errorRegister": "पंजीकरण करते समय त्रुटि",
+  "save": "बचाना",
+  "dontHaveAccount": "खाता नहीं है?",
+  "createAccount": "साइन अप करें",
+  "registerAsDriver": "ड्राइवर के रूप में रजिस्टर करें",
+  "haveAnAccount": "एक खाता है?",
+  "signIn": "साइन इन करें",
+  "skipForNow": "अभी रहने दो",
+  "skip": "छोड़ें",
+  "verifyConnection": "अपना इंटरनेट कनेक्शन सत्यापित करें",
+  "rememberMe": "पहचाना की नहीं",
+  "menu": "मेन्यू",
+  "wantSignOut": "साइन आउट करना चाहते हैं?",
+  "yes": "हाँ",
+  "no": "नहीं",
+  "theme": "थीम",
+  "darkTheme": "डार्क थीम",
+  "lightTheme": "लाइट थीम",
+  "sendLink": "लिंक सबमिट करें",
+  "linkSubmitted": "लिंक सबमिट किया गया",
+  "errorSendingLink": "लिंक भेजने में त्रुटि",
+  "linkCopied": "लिंक कॉपी कर लिया गया है",
+  "rides": "सवारी",
+  "ride": "सवारी",
+  "noRides": "कोई सवारी नहीं मिली",
+  "errorGettingRide": "सवारी प्राप्त करने में त्रुटि",
+  "rideNotFound": "सवारी नहीं मिली",
+  "recentRides": "हाल की सवारी",
+  "hours": "घंटे",
+  "minutes": "मिनट",
+  "pickup": "उठाना",
+  "table": "मेज",
+  "dateFormat": "yyyy-MM-dd",
+  "datetimeFormat": "yyyy-MM-dd HH:mm",
+  "seeFullRide": "पूरी सवारी देखें",
+  "paymentMethod": "भुगतान का तरीका",
+  "paymentStatus": "भुगतान की स्थिति",
+  "rideMethod": "सवारी विधि",
+  "tracking": "नज़र रखना",
+  "details": "विवरण",
+  "products": "उत्पादों",
+  "inProgress": "चालू",
+  "finalized": "अंतिम रूप दिया",
+  "customer": "ग्राहक",
+  "value": "राशि",
+  "totalAmount": "कुल रकम",
+  "subtotal": "उप-योग",
+  "rideFee": "सवारी शुल्क",
+  "coupon": "कूपन",
+  "advanceStatus": "अग्रिम स्थिति",
+  "deleteLastStatus": "अंतिम स्थिति हटाएं",
+  "inputMinimumSize": "{fieldName} कम से कम {requiredSize} वर्ण लंबा होना चाहिए",
+  "@inputMinimumSize": {
+    "description": "क्षेत्र का न्यूनतम आकार",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "पासवर्ड"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "profile": "प्रोफ़ाइल",
+  "settings": "समायोजन",
+  "navigation": "मार्गदर्शन",
+  "receiveRides": "सवारी प्राप्त करें",
+  "errorUpdateStatus": "स्थिति को रीफ़्रेश करते समय एक त्रुटि हुई, कृपया पुनः प्रयास करें",
+  "errorChangeStatus": "स्थिति बदलते समय एक त्रुटि हुई, कृपया पुनः प्रयास करें",
+  "linkRides": "सवारी के लिए लिंक",
+  "yourRideValueSetByYouOrSystemDefault": "आपका सवारी मूल्य आपके द्वारा निर्धारित किया जाता है या आप सिस्टम डिफ़ॉल्ट मान का उपयोग कर सकते हैं।",
+  "next": "अगला",
+  "weDontProfitFromYou": "हमें आपसे कोई लाभ नहीं है",
+  "youReceiveWhatYouSetInYourValues": "आप ठीक वही प्राप्त करते हैं जो आपने अपने मूल्यों में निर्धारित किया है और हम ग्राहक द्वारा भुगतान की गई राशि में 10% का एक छोटा सा शुल्क जोड़ते हैं।",
+  "yourLinkRideDirectlyWithYou": "सीधे आपके साथ सवारी करने के लिए आपका लिंक",
+  "sendToCustomersAlreadyTrustWorkRidesFallToYou": "इसे उन ग्राहकों को भेजें जो पहले से ही आपके काम पर भरोसा करते हैं और इसके साथ ही उनकी सवारी सीधे आप पर पड़ती है।",
+  "muchMoreThoughtDriver": "आप ड्राइवर के लिए बहुत अधिक सोचा!",
+  "possibilityCreateRideTeamMultipleRide": "ऐप के भीतर अपनी सवारी टीम बनाने की संभावना, कई सवारी और बहुत कुछ पूरा करें!",
+  "haveDriversLicenseInHandCompleteRegistration": "पंजीकरण पूरा करने के लिए अब आपके पास अपने ड्राइवर का लाइसेंस है",
+  "letsStart": "चलो शुरू करते हैं",
+  "selectAccountType": "खाता प्रकार चुनें",
+  "proceedRegistration": "पंजीकरण के लिए आगे बढ़ें",
+  "onlyRideViaLink": "केवल लिंक के माध्यम से सवारी करता है",
+  "ridesLinkPanel": "लिंक और पैनल द्वारा सवारी",
+  "allowsDeviceCompleteAccountReceiveRidesOrJustLink": "Entrejax आपको यह तय करने की अनुमति देता है कि क्या आप एक पूरा खाता रखना चाहते हैं और अपने करीब सवारी प्राप्त करना चाहते हैं या केवल लिंक के माध्यम से प्राप्त करना चाहते हैं (जिसे आप साझा करते हैं)।",
+  "receiveRideEntrejaxAndLink": "Entrejax डैशबोर्ड से सवारी प्राप्त करें और मेरा लिंक प्राप्त करें",
+  "receiveRideLinkOnly": "केवल मेरे लिंक के माध्यम से सवारी प्राप्त करें",
+  "optionAutomaticallyReceiveRidesPanelAndHaveLink": "इस विकल्प में आप Entrejax पैनल से स्वचालित रूप से सवारी प्राप्त करने में सक्षम होंगे, यहां तक कि उन ग्राहकों से भी जिनके पास आपका लिंक नहीं है, लेकिन हमें आपके दस्तावेज़ों को सत्यापित और मान्य करने की आवश्यकता होगी।",
+  "optionMustShareLink": "इस विकल्प में, केवल वही ग्राहक इसके लिए पूछ सकेंगे जिनके पास आपका लिंक है। आपको अपना लिंक अपने ग्राहकों के साथ साझा करना होगा और Entrejax डैशबोर्ड पर आस-पास की सवारी के लिए दिखाई नहीं देंगे।",
+  "registration": "पंजीकरण",
+  "register": "पंजीकरण करवाना",
+  "wantToLeaveRegistration": "क्या आप पंजीकरण छोड़ना चाहते हैं?",
+  "exitingRegistrationDataLost": "पंजीकरण से बाहर निकलने पर, पहले से दर्ज किया गया सभी डेटा खो जाएगा।",
+  "cancel": "रद्द करना",
+  "declareHaveReadAgreed": "पंजीकरण करके, आप घोषणा करते हैं कि आपने हमारे . को पढ़ लिया है और इससे सहमत हैं",
+  "termsUsePrivacyPolicy": "उपयोग की शर्तें और गोपनीयता नीति",
+  "leave": "छुट्टी",
+  "youDontHaveAnyRides": "आपकी कोई सवारी नहीं है",
+  "newRideReceived": "नई सवारी प्राप्त हुई!",
+  "searchingRides": "खोज सवारी",
+  "noLocationPermission": "कोई स्थान अनुमति नहीं",
+  "errorFetchingStatus": "स्थिति लाने में त्रुटि",
+  "errorConnectingMercadoPago": "Mercado Pago से कनेक्ट करने में त्रुटि",
+  "errorDisconnectingAccount": "खाता डिस्कनेक्ट करने में त्रुटि",
+  "errorUpdatingSetting": "सेटिंग अपडेट करने में त्रुटि",
+  "loadMore": "और लोड करें",
+  "requestedBy": "द्वारा अनुरोध किया गया",
+  "boardingAddress": "पता चुनें",
+  "rideAddress": "सवारी का पता",
+  "rideAddresses": "सवारी के पते",
+  "viewCompleteRide": "पूरी सवारी देखें",
+  "termsUse": "उपयोग की शर्तें",
+  "privacyPolicy": "गोपनीयता नीति",
+  "tryAgain": "पुनः प्रयास करें",
+  "support": "सहायता",
+  "accountSupport": "खाता समर्थन",
+  "disconnected": "डिस्कनेक्ट किया गया",
+  "connected": "जुड़े हुए",
+  "connect": "जुडिये",
+  "disconnect": "डिस्कनेक्ट",
+  "connectMyMercadoPago": "मेरा Mercado Pago कनेक्ट करें",
+  "waitConnecting": "कृपया प्रतीक्षा करें, कनेक्टिंग",
+  "continuee": "जारी रखना",
+  "saveValues": "मान सहेजें",
+  "feeEachAdditionalStop": "मार्ग पर प्रत्येक अतिरिक्त स्टॉप के लिए शुल्क",
+  "enterFeePerStop": "प्रति स्टॉप दर दर्ज करें",
+  "feePerStop": "शुल्क प्रति स्टॉप",
+  "valueReturnPickupSite": "पिकअप साइट पर लौटने के {distanceUnit} का मान",
+  "@valueReturnPickupSite": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterValueReturn": "वापसी का मान दर्ज करें {distanceUnit}",
+  "@enterValueReturn": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "returnDistance": "वापसी {distanceUnit}",
+  "@returnDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "valueAdditionalBaseDistance": "आधार दूरी के प्रति अतिरिक्त {distanceUnit} का मान",
+  "@valueAdditionalBaseDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterDistanceValue": "{DistanceUnit} मान दर्ज करें",
+  "@enterDistanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "distanceValue": "{distanceUnit} मान",
+  "@distanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "initialValueWithoutChargingAdditional": "{distanceUnit}(s) जिसका प्रारंभिक मान बिना अतिरिक्त शुल्क लिए हकदार होगा {distanceUnit}",
+  "@initialValueWithoutChargingAdditional": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterBaseDistance": "आधार दूरी दर्ज करें",
+  "baseDistance": "आधार दूरी",
+  "amountInitiallyCharged": "शुरू में चार्ज की गई राशि",
+  "enterBaseAmount": "आधार राशि दर्ज करें",
+  "baseAmount": "मूल",
+  "attention": "ध्यान",
+  "theValuesWillResetAppBase": "दर्ज किए गए मान ऐप के मूल मान पर रीसेट कर दिए जाएंगे। क्या आप जारी रखना चाहते हैं?",
+  "useAppBaseValue": "ऐप बेस वैल्यू का इस्तेमाल करें",
+  "configureRideFeeValues": "अपने सवारी शुल्क मूल्यों को कॉन्फ़िगर करें",
+  "needCreditCardMachineRideMercadoPagoDiscount": "क्रेडिट कार्ड मशीन चाहिए? यहां टैप करके 83% तक की छूट के साथ Mercado Pago की सवारी करें",
+  "activateOfflinePaymentDebitCard": "डेबिट कार्ड से ऑफलाइन भुगतान सक्रिय करें (आपके पास अपनी मशीन होनी चाहिए)",
+  "activateOfflinePaymentCreditCard": "क्रेडिट कार्ड से ऑफ़लाइन भुगतान सक्रिय करें (आपके पास अपनी मशीन होनी चाहिए)",
+  "activateCashPayment": "नकद भुगतान सक्रिय करें",
+  "activateOnlyPaymentMercadoPago": "Mercado Pago के साथ ऑनलाइन भुगतान सक्रिय करें (उपरोक्त जुड़े Mercado Pago खाते में तुरंत भुगतान भेजा जाता है)",
+  "settingHaveBeenSaved": "सेटिंग्स सहेज ली गई हैं",
+  "errorUpdatingPaymentMethods": "भुगतान विधियों को अपडेट करने में त्रुटि हुई",
+  "agree": "इस बात से सहमत",
+  "disagree": "असहमत",
+  "noPermissions": "आज्ञा नहीं है",
+  "appCollectsLocationEvenBackground": "{appName} जब आप राइड के लिए उपलब्ध होते हैं तो आपका स्थान एकत्र करता है ताकि ग्राहक को एप्लिकेशन के बंद होने पर भी (पृष्ठभूमि में) या उपयोग में न होने पर भी निकटतम ड्राइवर खोजने की अनुमति मिल सके।",
+  "@appCollectsLocationEvenBackground": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "locationRequired": "स्थान आवश्यक",
+  "enableLocationContinue": "जारी रखने के लिए स्थान सक्षम करें",
+  "activate": "सक्रिय",
+  "goToSettings": "सेटिंग्स में जाओ",
+  "acessLocationAllTheTime": "हर समय स्थान तक पहुंच",
+  "allowAppAcessLocationAllTimesContinue": "जारी रखने के लिए ऐप्लिकेशन को हर समय आपके स्थान तक पहुंचने दें",
+  "clickOnAdressOpenInMap": "पते को मानचित्र पर खोलने के लिए उस पर क्लिक करें",
+  "collect": "इकट्ठा करना",
+  "returnCollectLocation": "संग्रह स्थान पर लौटें",
+  "boardingAddressNotProvidedContactCustomer": "पिकअप पता नहीं दिया गया, कृपया ग्राहक से संपर्क करें।",
+  "accept": "स्वीकार करना",
+  "refuse": "ठुकराना",
+  "cancelRide": "सवारी रद्द करें",
+  "finalizeRide": "सवारी को अंतिम रूप दें",
+  "markDelivered": "वितरित के रूप में बाजार",
+  "passengerBoarded": "यात्री सवार",
+  "rideStatus": "सवारी की स्थिति",
+  "driverValue": "चालक मूल्य",
+  "appFee": "ऐप शुल्क",
+  "note": "टिप्पणी",
+  "returnCollectionLocation": "संग्रह स्थान पर लौटें",
+  "estimatedDistance": "अनुमानित दूरी",
+  "addresses": "पतों",
+  "select": "चुनना",
+  "returnn": "वापस करना",
+  "finalize": "अंतिम रूप",
+  "rideConfirmedSelectedAddress": "चयनित पते पर सवारी की पुष्टि की गई है।",
+  "rideMarkedAs": "सवारी के रूप में चिह्नित किया गया था",
+  "rideRequiredReturningFinalizeOnlyAfterArrived": "सवारी को संग्रह स्थान पर लौटने की आवश्यकता है, स्थान पर पहुंचने के बाद ही अंतिम रूप दें।",
+  "selectWhichAddressRideMade": "चुनें कि सवारी किस पते पर की गई थी",
+  "rideWillBeCanceledAmountRefundedSure": "सवारी रद्द कर दी जाएगी और यह क्रिया अपरिवर्तनीय है। ग्राहक को राशि वापस कर दी जाएगी और हम आपको रद्द करने की सूचना देंगे। क्या तुम वाकई जारी रखना चाहते हो?",
+  "camera": "कैमरा",
+  "gallery": "गेलरी",
+  "updatePhoto": "फोटो अपडेट करें",
+  "cameraAccess": "कैमरा एक्सेस",
+  "galleryAccess": "गैलरी तक पहुंच",
+  "allowAppAccessThe": "फ़ोटो भेजने में सक्षम होने के लिए ऐप्स को {accessType} तक पहुंचने दें",
+  "@allowAppAccessThe": {
+    "description": "उपयोग की अनुमति दें",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "छवि भेजने में एक त्रुटि हुई।",
+  "balanceDue": "शेष राशि",
+  "pay": "भुगतान करना",
+  "feeNotPaydOfflinePayment": "ऑफ़लाइन भुगतान के साथ सवारी के लिए अभी तक 10% शुल्क का भुगतान नहीं किया गया है।",
+  "failedUpdate": "अपडेट करने में विफल",
+  "dataUpdatedSuccessfully": "डेटा सफलतापूर्वक अपडेट किया गया",
+  "and": "तथा",
+  "kilometer": "किलोमीटर",
+  "mile": "मील",
+  "km": "किमी",
+  "mi": "एम आई",
+  "signinWith": "{socialNetwork} से साइन इन करें",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "फ़ोन नंबर आवश्यक",
+  "pending": "लंबित",
+  "accepted": "को स्वीकृत",
+  "rejected": "अस्वीकृत",
+  "collected": "जुटाया हुआ।",
+  "delivered": "पहुंचा दिया",
+  "cancelled": "रद्द",
+  "andMoreLocations": "और अधिक {quantity} स्थान",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "completed": "पूरा हुआ",
+  "deletingYourAccont": "अपना खाता हटाना",
+  "deleteAccount": "खाता हटा दो",
+  "deleteMyAccount": "मेरा एकाउंट हटा दो",
+  "reallyWantDeleteAccontDataWillBeLost": "क्या आप वाकई अपना खाता हटाना चाहते हैं? आपका डेटा स्थायी रूप से खो जाएगा।",
+  "vehicleType": "वाहन का प्रकार",
+  "brand": "ब्रैंड",
+  "enterVehicleBrand": "वाहन ब्रांड दर्ज करें",
+  "model": "नमूना",
+  "enterVehicleModel": "वाहन मॉडल दर्ज करें",
+  "plate": "तश्तरी",
+  "enterVehiclePlate": "वाहन प्लेट दर्ज करें",
+  "vehicleDocument": "वाहन दस्तावेज",
+  "enterVehicleDocument": "वाहन दस्तावेज़ दर्ज करें",
+  "driversLicensePhoto": "ड्राइविंग लाइसेंस फोटो",
+  "selectVehicleType": "वाहन का प्रकार चुनें",
+  "back": "पीछे",
+  "approved": "स्वीकृत",
+  "reproved": "उलाहना दिया",
+  "dataUnderReview": "आपका डेटा समीक्षा अधीन है",
+  "dataBeingAnalyzedByTeamWait": "आपके डेटा का विश्लेषण हमारी टीम द्वारा किया जा रहा है, बस प्रतीक्षा करें।",
+  "needCheckSomeData": "आपको कुछ डेटा की जांच करने की आवश्यकता है",
+  "editData": "डेटा संपादित करें",
+  "earnings": "आय",
+  "today": "आज",
+  "yesterday": "कल",
+  "sevenDays": "7 दिन",
+  "chatWithCustomer": "ग्राहक के साथ चैट करें",
+  "noMessages": "कोई संदेश नहीं",
+  "enterAMessage": "एक संदेश दर्ज करें",
+  "registerUpdatedSuccessfully": "रजिस्टर सफलतापूर्वक अपडेट किया गया",
+  "errorUpdatingRegistrationTryAgain": "पंजीकरण अपडेट करने में त्रुटि, कृपया पुन: प्रयास करें।",
+  "fixErrorFieldsTryAgain": "त्रुटि फ़ील्ड ठीक करें और पुनः प्रयास करें",
+  "successfullyRegistered": "पंजीकरण सफलतापूर्वक हो गया है",
+  "errorRegisteringTryAgain": "पंजीकरण करने में त्रुटि, कृपया पुन: प्रयास करें",
+  "waitSavingRegistration": "कृपया प्रतीक्षा करें, हम आपका पंजीकरण सहेज रहे हैं",
+  "selectImageSource": "छवि स्रोत का चयन करें"
+}

@@ -1,0 +1,358 @@
+{
+  "home": "Hogar",
+  "login": "Acceso",
+  "logout": "Cerrar sesión",
+  "theName": "El nombre",
+  "name": "Nombre",
+  "fullName": "Nombre completo",
+  "enterFullName": "Ingresa tu nombre completo",
+  "phone": "Teléfono",
+  "thePhone": "El teléfono",
+  "enterPhoneCorrectly": "Introduce correctamente tu teléfono",
+  "enterFullPhoneNumber": "Introduce tu teléfono completo",
+  "fantasyName": "Nombre de fantasía",
+  "enterCompanyName": "Introduzca el nombre de la empresa",
+  "email": "Correo electrónico",
+  "enterEmail": "Introduce tu correo electrónico",
+  "enterValidEmail": "Introduzca un correo electrónico válido",
+  "emailNotFound": "El correo electrónico no encontrado",
+  "waitSendLinkAgain": "Espere a enviar el enlace de nuevo",
+  "password": "Clave",
+  "thePassword": "una senha",
+  "enterPassword": "Ingresa tu contraseña",
+  "enterPasswordConfirmation": "Ingrese la confirmación de la contraseña",
+  "confirmPassword": "Confirmar la contraseña",
+  "passwordsNotMatch": "Las contraseñas no coinciden",
+  "incorrectEmailPassword": "Correo o contraseña incorrectos",
+  "forgetPassword": "¿Olvidaste tu contraseña?",
+  "loginRequired": "Necesario iniciar sesión",
+  "errorLogin": "Error al iniciar sesión",
+  "errorRegister": "Error al registrarse",
+  "save": "Ahorrar",
+  "dontHaveAccount": "¿No tienes una cuenta?",
+  "createAccount": "Inscribirse",
+  "registerAsDriver": "Registrarse como conductor",
+  "haveAnAccount": "¿Tener una cuenta?",
+  "signIn": "Iniciar sesión",
+  "skipForNow": "Saltar por ahora",
+  "skip": "Saltar",
+  "verifyConnection": "Verifica tu conexión a internet",
+  "rememberMe": "Acuérdate de mí",
+  "menu": "Menú",
+  "wantSignOut": "¿Quieres cerrar sesión?",
+  "yes": "Sí",
+  "no": "No",
+  "theme": "Tema",
+  "darkTheme": "tema oscuro",
+  "lightTheme": "Tema ligero",
+  "sendLink": "Enviar enlace",
+  "linkSubmitted": "Enlace enviado",
+  "errorSendingLink": "Error al enviar enlace",
+  "linkCopied": "El enlace ha sido copiado.",
+  "rides": "paseos",
+  "ride": "Conducir",
+  "noRides": "No se encontraron viajes",
+  "errorGettingRide": "Error al obtener el viaje",
+  "rideNotFound": "Viaje no encontrado",
+  "recentRides": "Viajes recientes",
+  "hours": "Horas",
+  "minutes": "Minutos",
+  "pickup": "Levantar",
+  "table": "Mesa",
+  "dateFormat": "aaaa-MM-dd",
+  "datetimeFormat": "aaaa-MM-dd HH:mm",
+  "seeFullRide": "Ver paseo completo",
+  "paymentMethod": "Método de pago",
+  "paymentStatus": "Estado de pago",
+  "rideMethod": "método de viaje",
+  "tracking": "Seguimiento",
+  "details": "Detalles",
+  "products": "Productos",
+  "inProgress": "En progreso",
+  "finalized": "Finalizado",
+  "customer": "Cliente",
+  "value": "Monto",
+  "totalAmount": "Cantidad total",
+  "subtotal": "Total parcial",
+  "rideFee": "Tarifa de viaje",
+  "coupon": "Cupón",
+  "advanceStatus": "estado avanzado",
+  "deleteLastStatus": "Eliminar último estado",
+  "inputMinimumSize": "{fieldName} debe tener al menos {requiredSize} caracteres de largo",
+  "@inputMinimumSize": {
+    "description": "Tamaño mínimo del campo",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Clave"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "profile": "Perfil",
+  "settings": "Ajustes",
+  "navigation": "Navegación",
+  "receiveRides": "Recibir viajes",
+  "errorUpdateStatus": "Ocurrió un error al actualizar el estado, intente nuevamente",
+  "errorChangeStatus": "Ocurrió un error al cambiar el estado, intente nuevamente",
+  "linkRides": "Enlace a paseos",
+  "yourRideValueSetByYouOrSystemDefault": "El valor de su viaje lo establece usted o puede usar el valor predeterminado del sistema.",
+  "next": "próximo",
+  "weDontProfitFromYou": "No nos beneficiamos de ti",
+  "youReceiveWhatYouSetInYourValues": "Recibes exactamente lo que estableces en tus valores y añadimos una pequeña comisión del 10% al importe pagado por el cliente.",
+  "yourLinkRideDirectlyWithYou": "Tu enlace para viajar directamente contigo",
+  "sendToCustomersAlreadyTrustWorkRidesFallToYou": "Envíalo a clientes que ya confían en tu trabajo y con eso sus viajes recaen directamente en ti.",
+  "muchMoreThoughtDriver": "Mucho más pensado para usted conductor!",
+  "possibilityCreateRideTeamMultipleRide": "¡Posibilidad de crear su equipo de viaje dentro de la aplicación, realizar múltiples viajes y mucho más!",
+  "haveDriversLicenseInHandCompleteRegistration": "Ahora tenga su licencia de conducir en la mano para completar el registro",
+  "letsStart": "Empecemos",
+  "selectAccountType": "Seleccionar tipo de cuenta",
+  "proceedRegistration": "Proceder al registro",
+  "onlyRideViaLink": "Solo viajes a través del enlace",
+  "ridesLinkPanel": "Paseos por enlace y panel",
+  "allowsDeviceCompleteAccountReceiveRidesOrJustLink": "Entrejax te permite decidir si quieres tener una cuenta completa y recibir viajes cerca de ti o solo recibir a través del enlace (a quien compartes).",
+  "receiveRideEntrejaxAndLink": "Recibir viajes desde el tablero de Entrejax y tener mi enlace",
+  "receiveRideLinkOnly": "Reciba viajes solo a través de mi enlace",
+  "optionAutomaticallyReceiveRidesPanelAndHaveLink": "En esta opción podrás recibir viajes automáticamente desde el panel de Entrejax, incluso de clientes que no tengan tu enlace, pero necesitaremos verificar y validar tus documentos.",
+  "optionMustShareLink": "En esta opción, solo los clientes que tengan tu enlace podrán solicitarlo. Debe compartir su enlace con sus clientes y no aparecerá para los viajes cercanos en el tablero de Entrejax.",
+  "registration": "Registro",
+  "register": "Registro",
+  "wantToLeaveRegistration": "¿Quieres salir del registro?",
+  "exitingRegistrationDataLost": "Al salir del registro, se perderán todos los datos ya ingresados.",
+  "cancel": "Cancelar",
+  "declareHaveReadAgreed": "Al registrarse, declara que ha leído y está de acuerdo con nuestros",
+  "termsUsePrivacyPolicy": "Términos de uso y política de privacidad",
+  "leave": "Abandonar",
+  "youDontHaveAnyRides": "no tienes paseos",
+  "newRideReceived": "¡Nuevo viaje recibido!",
+  "searchingRides": "Buscando viajes",
+  "noLocationPermission": "Sin permiso de ubicación",
+  "errorFetchingStatus": "Error al obtener el estado",
+  "errorConnectingMercadoPago": "Error al conectar con Mercado Pago",
+  "errorDisconnectingAccount": "Error al desconectar la cuenta",
+  "errorUpdatingSetting": "Error al actualizar la configuración",
+  "loadMore": "Carga más",
+  "requestedBy": "Solicitado por",
+  "boardingAddress": "Dirección de entrega",
+  "rideAddress": "Dirección del viaje",
+  "rideAddresses": "Direcciones de viaje",
+  "viewCompleteRide": "Ver paseo completo",
+  "termsUse": "Términos de Uso",
+  "privacyPolicy": "Política de privacidad",
+  "tryAgain": "Intentar otra vez",
+  "support": "Apoyo",
+  "accountSupport": "soporte de cuenta",
+  "disconnected": "Desconectado",
+  "connected": "Conectado",
+  "connect": "Conectar",
+  "disconnect": "Desconectar",
+  "connectMyMercadoPago": "Conectar mi Mercado Pago",
+  "waitConnecting": "Por favor espere, conectando",
+  "continuee": "Continuar",
+  "saveValues": "Guardar valores",
+  "feeEachAdditionalStop": "Tarifa por cada parada adicional en la ruta",
+  "enterFeePerStop": "Introducir tarifa por parada",
+  "feePerStop": "Tarifa por parada",
+  "valueReturnPickupSite": "Valor de la {distanceUnit} de regreso al sitio de recogida",
+  "@valueReturnPickupSite": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterValueReturn": "Introduzca el valor de la devolución {distanceUnit}",
+  "@enterValueReturn": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "returnDistance": "Devolver {distanceUnit}",
+  "@returnDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "valueAdditionalBaseDistance": "Valor por {distanceUnit} adicional de la distancia base",
+  "@valueAdditionalBaseDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterDistanceValue": "Introduzca el valor de {distanceUnit}",
+  "@enterDistanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "distanceValue": "{distanceUnit} Valor",
+  "@distanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "initialValueWithoutChargingAdditional": "{distanceUnit}(s) que el valor inicial dará derecho sin cobrar {distanceUnit} adicionales",
+  "@initialValueWithoutChargingAdditional": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterBaseDistance": "Ingrese la distancia base",
+  "baseDistance": "Distancia base",
+  "amountInitiallyCharged": "Monto cobrado inicialmente",
+  "enterBaseAmount": "Ingrese la cantidad base",
+  "baseAmount": "Cantidad base",
+  "attention": "Atención",
+  "theValuesWillResetAppBase": "Los valores ingresados se restablecerán al valor base de la aplicación. ¿Desea continuar?",
+  "useAppBaseValue": "Usar el valor base de la aplicación",
+  "configureRideFeeValues": "Configura los valores de tu tarifa de viaje",
+  "needCreditCardMachineRideMercadoPagoDiscount": "¿Necesita una máquina de tarjeta de crédito? Súbete a la de Mercado Pago con hasta un 83% de descuento tocando aquí",
+  "activateOfflinePaymentDebitCard": "Activa Pago Offline con Tarjeta de Débito (necesitas tener tu máquina)",
+  "activateOfflinePaymentCreditCard": "Activa Pago Offline con Tarjeta de Crédito (necesitas tener tu máquina)",
+  "activateCashPayment": "Activar pago en efectivo",
+  "activateOnlyPaymentMercadoPago": "Activa Pago Online con Mercado Pago (el pago se envía al instante a la cuenta de Mercado Pago conectada arriba)",
+  "settingHaveBeenSaved": "Los ajustes se han guardado.",
+  "errorUpdatingPaymentMethods": "Hubo un error al actualizar los métodos de pago",
+  "agree": "Aceptar",
+  "disagree": "Discrepar",
+  "noPermissions": "no permisos",
+  "appCollectsLocationEvenBackground": "{appName} recopila su ubicación cuando está disponible para viajes para permitir que el cliente encuentre los conductores más cercanos, incluso cuando la aplicación está cerrada (en segundo plano) o no está en uso.",
+  "@appCollectsLocationEvenBackground": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "locationRequired": "Ubicación requerida",
+  "enableLocationContinue": "Habilitar ubicación para continuar",
+  "activate": "Activar",
+  "goToSettings": "Ir a la configuración",
+  "acessLocationAllTheTime": "Acceso a la ubicación todo el tiempo",
+  "allowAppAcessLocationAllTimesContinue": "Permita que la aplicación acceda a su ubicación en todo momento para continuar",
+  "clickOnAdressOpenInMap": "Haga clic en la dirección para abrirla en el mapa",
+  "collect": "Recoger",
+  "returnCollectLocation": "Regresar al Lugar de Recolección",
+  "boardingAddressNotProvidedContactCustomer": "Dirección de recogida no proporcionada, póngase en contacto con el cliente.",
+  "accept": "Aceptar",
+  "refuse": "Rechazar",
+  "cancelRide": "Cancelar viaje",
+  "finalizeRide": "Finalizar viaje",
+  "markDelivered": "Mercado como entregado",
+  "passengerBoarded": "pasajero embarcado",
+  "rideStatus": "Estado del viaje",
+  "driverValue": "Valor del controlador",
+  "appFee": "Tarifa de aplicación",
+  "note": "Nota",
+  "returnCollectionLocation": "Regresar al Lugar de Recolección",
+  "estimatedDistance": "Distancia estimada",
+  "addresses": "direcciones",
+  "select": "Seleccione",
+  "returnn": "Devolver",
+  "finalize": "Finalizar",
+  "rideConfirmedSelectedAddress": "Se ha confirmado el viaje a la dirección seleccionada.",
+  "rideMarkedAs": "El viaje fue marcado como",
+  "rideRequiredReturningFinalizeOnlyAfterArrived": "El viaje requiere regresar al lugar de recogida, finalice solo después de haber llegado al lugar.",
+  "selectWhichAddressRideMade": "Seleccione a qué dirección se realizó el viaje",
+  "rideWillBeCanceledAmountRefundedSure": "El Paseo será cancelado y esta acción es irreversible. El importe será reembolsado al cliente y le avisaremos de la cancelación. Estás seguro de que quieres continuar?",
+  "camera": "Cámara",
+  "gallery": "Galería",
+  "updatePhoto": "Actualizar foto",
+  "cameraAccess": "Acceso a la cámara",
+  "galleryAccess": "Acceso a la galería",
+  "allowAppAccessThe": "Permita que la aplicación acceda al {accessType} para poder enviar fotos",
+  "@allowAppAccessThe": {
+    "description": "Permitir el acceso",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Hubo un error al enviar la imagen.",
+  "balanceDue": "Saldo adeudado",
+  "pay": "Pagar",
+  "feeNotPaydOfflinePayment": "Tarifa del 10% aún no pagada por viajes con pago fuera de línea.",
+  "failedUpdate": "Error al actualizar",
+  "dataUpdatedSuccessfully": "Datos actualizados con éxito",
+  "and": "y",
+  "kilometer": "Kilómetro",
+  "mile": "Milla",
+  "km": "kilómetros",
+  "mi": "Mi",
+  "signinWith": "Iniciar sesión con {socialNetwork}",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Número de teléfono requerido",
+  "pending": "Pendiente",
+  "accepted": "Aceptado",
+  "rejected": "Rechazado",
+  "collected": "Recogido",
+  "delivered": "Entregado",
+  "cancelled": "Cancelado",
+  "andMoreLocations": "y más {quantity} ubicaciones",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "completed": "Terminado",
+  "deletingYourAccont": "Eliminando tu cuenta",
+  "deleteAccount": "Borrar cuenta",
+  "deleteMyAccount": "Borrar mi cuenta",
+  "reallyWantDeleteAccontDataWillBeLost": "¿Realmente quieres eliminar tu cuenta? Sus datos se perderán permanentemente.",
+  "vehicleType": "Tipo de vehiculo",
+  "brand": "Marca",
+  "enterVehicleBrand": "Introduce la marca del vehículo",
+  "model": "Modelo",
+  "enterVehicleModel": "Introduce el modelo del vehículo",
+  "plate": "Lámina",
+  "enterVehiclePlate": "Introducir matrícula del vehículo",
+  "vehicleDocument": "Documento del vehículo",
+  "enterVehicleDocument": "Ingresar documento del vehículo",
+  "driversLicensePhoto": "foto del carnet de conducir",
+  "selectVehicleType": "Seleccione un tipo de vehículo",
+  "back": "atrás",
+  "approved": "Aprobado",
+  "reproved": "reprobado",
+  "dataUnderReview": "Sus datos están bajo revisión",
+  "dataBeingAnalyzedByTeamWait": "Tus datos están siendo analizados por nuestro equipo, solo espera.",
+  "needCheckSomeData": "Tienes que revisar algunos datos",
+  "editData": "Editar datos",
+  "earnings": "Ganancias",
+  "today": "Este Dia",
+  "yesterday": "El dia de ayer",
+  "sevenDays": "7 días",
+  "chatWithCustomer": "Chatea con el cliente",
+  "noMessages": "Ningún mensaje",
+  "enterAMessage": "Introduce un mensaje",
+  "registerUpdatedSuccessfully": "Registro actualizado con éxito",
+  "errorUpdatingRegistrationTryAgain": "Error al actualizar el registro, inténtalo de nuevo.",
+  "fixErrorFieldsTryAgain": "Corrige los campos de error e inténtalo de nuevo",
+  "successfullyRegistered": "Registrado exitosamente",
+  "errorRegisteringTryAgain": "Error al registrarse, inténtalo de nuevo",
+  "waitSavingRegistration": "Por favor espere, estamos guardando su registro",
+  "selectImageSource": "Seleccione la fuente de la imagen"
+}

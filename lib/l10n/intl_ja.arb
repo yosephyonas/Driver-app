@@ -1,0 +1,357 @@
+{
+  "home": "家",
+  "login": "ログイン",
+  "logout": "ログアウト",
+  "theName": "名前",
+  "name": "名前",
+  "fullName": "フルネーム",
+  "enterFullName": "フルネームを入れて下さい",
+  "phone": "電話",
+  "thePhone": "電話",
+  "enterPhoneCorrectly": "電話番号を正しく入力してください",
+  "enterFullPhoneNumber": "電話番号を入力してください",
+  "fantasyName": "ファンタジー名",
+  "enterCompanyName": "会社名を入力してください",
+  "email": "Eメール",
+  "enterEmail": "メールアドレスを入力",
+  "enterValidEmail": "有効なメールアドレスを入力してください",
+  "emailNotFound": "メールが見つかりません",
+  "waitSendLinkAgain": "リンクの再送信を待ちます",
+  "password": "パスワード",
+  "thePassword": "せんは",
+  "enterPassword": "パスワードを入力してください",
+  "enterPasswordConfirmation": "パスワードの確認を入力してください",
+  "confirmPassword": "あなたのパスワードを確認",
+  "passwordsNotMatch": "パスワードが一致していません",
+  "incorrectEmailPassword": "メールアドレスまたはパスワードが正しくありません",
+  "forgetPassword": "パスワードを忘れましたか？",
+  "loginRequired": "ログインが必要です",
+  "errorLogin": "ログイン中のエラー",
+  "errorRegister": "登録中のエラー",
+  "save": "保存",
+  "dontHaveAccount": "アカウントをお持ちでない場合",
+  "createAccount": "サインアップ",
+  "registerAsDriver": "ドライバー登録",
+  "haveAnAccount": "アカウントを持っています？",
+  "signIn": "ログイン",
+  "skipForNow": "今のところスキップ",
+  "skip": "スキップ",
+  "verifyConnection": "インターネット接続を確認する",
+  "rememberMe": "私を覚えてますか",
+  "menu": "メニュー",
+  "wantSignOut": "サインアウトしますか?",
+  "yes": "はい",
+  "no": "いいえ",
+  "theme": "テーマ",
+  "darkTheme": "暗いテーマ",
+  "lightTheme": "ライトテーマ",
+  "sendLink": "リンクを送信",
+  "linkSubmitted": "リンクを送信しました",
+  "errorSendingLink": "リンクの送信エラー",
+  "linkCopied": "リンクをコピーしました",
+  "rides": "乗り物",
+  "ride": "乗る",
+  "noRides": "乗り物が見つかりません",
+  "errorGettingRide": "配車エラー",
+  "rideNotFound": "乗車が見つかりません",
+  "recentRides": "最近の乗り物",
+  "hours": "時間",
+  "minutes": "分",
+  "pickup": "選び出す",
+  "table": "テーブル",
+  "dateFormat": "yyyy-MM-dd",
+  "datetimeFormat": "yyyy-MM-dd HH:mm",
+  "seeFullRide": "フルライドを見る",
+  "paymentMethod": "支払方法",
+  "paymentStatus": "支払い状況",
+  "rideMethod": "乗車方法",
+  "tracking": "追跡",
+  "details": "詳細",
+  "products": "製品",
+  "inProgress": "進行中",
+  "finalized": "ファイナライズ済み",
+  "customer": "お客様",
+  "value": "額",
+  "totalAmount": "合計金額",
+  "subtotal": "小計",
+  "rideFee": "乗車料金",
+  "coupon": "クーポン",
+  "advanceStatus": "進行状況",
+  "deleteLastStatus": "最後のステータスを削除",
+  "inputMinimumSize": "{fieldName} は {requiredSize} 文字以上にする必要があります",
+  "@inputMinimumSize": {
+    "description": "フィールドの最小サイズ",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "パスワード"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "profile": "プロフィール",
+  "settings": "設定",
+  "navigation": "ナビゲーション",
+  "receiveRides": "配車を受ける",
+  "errorUpdateStatus": "ステータスの更新中にエラーが発生しました。もう一度お試しください",
+  "errorChangeStatus": "ステータスの変更中にエラーが発生しました。もう一度お試しください",
+  "linkRides": "乗り物へのリンク",
+  "yourRideValueSetByYouOrSystemDefault": "乗車値は自分で設定するか、システムのデフォルト値を使用できます。",
+  "next": "次",
+  "weDontProfitFromYou": "私たちはあなたから利益を得ません",
+  "youReceiveWhatYouSetInYourValues": "値に設定したものを正確に受け取り、顧客が支払った金額に 10% の少額の手数料を追加します。",
+  "yourLinkRideDirectlyWithYou": "あなたと直接乗るためのあなたのリンク",
+  "sendToCustomersAlreadyTrustWorkRidesFallToYou": "すでにあなたの仕事を信頼している顧客に送って、彼らの乗り物があなたに直接降りかかるようにしましょう。",
+  "muchMoreThoughtDriver": "ドライバーのことをもっと考えてください！",
+  "possibilityCreateRideTeamMultipleRide": "アプリ内でライド チームを作成したり、複数のライドを実行したりできます。",
+  "haveDriversLicenseInHandCompleteRegistration": "運転免許証を手元に用意して、登録を完了してください",
+  "letsStart": "はじめましょう",
+  "selectAccountType": "アカウントの種類を選択",
+  "proceedRegistration": "登録に進む",
+  "onlyRideViaLink": "リンク経由のみの乗車",
+  "ridesLinkPanel": "リンクとパネルによる乗り物",
+  "allowsDeviceCompleteAccountReceiveRidesOrJustLink": "Entrejax を使用すると、完全なアカウントを持ち、近くで配車を受けるか、(共有先の) リンクを介して受け取るかを決定できます。",
+  "receiveRideEntrejaxAndLink": "Entrejax ダッシュボードから配車を受け、私のリンクを取得する",
+  "receiveRideLinkOnly": "私のリンクからのみ配車を受け取る",
+  "optionAutomaticallyReceiveRidesPanelAndHaveLink": "このオプションでは、あなたのリンクを持っていない顧客からでも、Entrejax パネルから自動的に配車を受け取ることができますが、私たちはあなたの書類を確認して検証する必要があります.",
+  "optionMustShareLink": "このオプションでは、リンクを持っている顧客のみが要求できます。リンクを顧客と共有する必要があり、Entrejax ダッシュボードの近くの乗り物には表示されません。",
+  "registration": "登録",
+  "register": "登録",
+  "wantToLeaveRegistration": "登録をやめますか？",
+  "exitingRegistrationDataLost": "登録を終了すると、すでに入力されているすべてのデータが失われます。",
+  "cancel": "キャンセル",
+  "declareHaveReadAgreed": "登録することにより、あなたは私たちの",
+  "termsUsePrivacyPolicy": "利用規約とプライバシーポリシー",
+  "leave": "離れる",
+  "youDontHaveAnyRides": "乗り物はありません",
+  "newRideReceived": "新しい乗り物を受け取りました！",
+  "searchingRides": "乗り物の検索",
+  "noLocationPermission": "位置情報の許可なし",
+  "errorFetchingStatus": "ステータスの取得中にエラーが発生しました",
+  "errorConnectingMercadoPago": "メルカド パゴへの接続エラー",
+  "errorDisconnectingAccount": "アカウントの切断中にエラーが発生しました",
+  "errorUpdatingSetting": "設定の更新中にエラーが発生しました",
+  "loadMore": "もっと読み込む",
+  "requestedBy": "に要求された",
+  "boardingAddress": "アドレスをピックアップ",
+  "rideAddress": "乗車住所",
+  "rideAddresses": "乗車場所",
+  "viewCompleteRide": "完全なライドを見る",
+  "termsUse": "利用規約",
+  "privacyPolicy": "プライバシーポリシー",
+  "tryAgain": "再試行する",
+  "support": "サポート",
+  "accountSupport": "アカウントサポート",
+  "disconnected": "切断されました",
+  "connected": "接続済み",
+  "connect": "接続",
+  "disconnect": "切断する",
+  "connectMyMercadoPago": "メルカド パゴを接続",
+  "waitConnecting": "接続中です。お待ちください",
+  "continuee": "継続する",
+  "saveValues": "値を保存",
+  "feeEachAdditionalStop": "ルート上の各追加停留所の料金",
+  "enterFeePerStop": "経由地あたりの料金を入力してください",
+  "feePerStop": "ストップごとの料金",
+  "valueReturnPickupSite": "受け取り場所までの戻りの {distanceUnit} の値",
+  "@valueReturnPickupSite": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterValueReturn": "戻り値 {distanceUnit} の値を入力してください",
+  "@enterValueReturn": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "returnDistance": "{distanceUnit} を返す",
+  "@returnDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "valueAdditionalBaseDistance": "基本距離の追加 {distanceUnit} あたりの値",
+  "@valueAdditionalBaseDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterDistanceValue": "{distanceUnit} の値を入力してください",
+  "@enterDistanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+" distanceValue": "距離 {distanceUnit} 値",  "@distanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "initialValueWithoutChargingAdditional": "追加の {distanceUnit} を課金せずに初期値が付与される {distanceUnit}(s)",
+  "@initialValueWithoutChargingAdditional": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterBaseDistance": "基準距離を入力してください",
+  "baseDistance": "ベース距離",
+  "amountInitiallyCharged": "最初に請求される金額",
+  "enterBaseAmount": "基本金額を入力",
+  "baseAmount": "基準額",
+  "attention": "注意",
+  "theValuesWillResetAppBase": "入力した値は、アプリの基本値にリセットされます。続行しますか?",
+  "useAppBaseValue": "アプリベース値を使用",
+  "configureRideFeeValues": "乗車料金の値を構成する",
+  "needCreditCardMachineRideMercadoPagoDiscount": "クレジットカード機が必要ですか？ここをタップすると最大 83% オフで Mercado Pago から乗車できます",
+  "activateOfflinePaymentDebitCard": "デビットカードでオフライン決済を有効にします (マシンが必要です)",
+  "activateOfflinePaymentCreditCard": "クレジットカードでオフライン決済を有効にします（マシンが必要です）",
+  "activateCashPayment": "現金支払いを有効にする",
+  "activateOnlyPaymentMercadoPago": "Mercado Pago でのオンライン支払いを有効にします (支払いは、上記で接続された Mercado Pago アカウントに即座に送信されます)",
+  "settingHaveBeenSaved": "設定が保存されました",
+  "errorUpdatingPaymentMethods": "お支払い方法の更新中にエラーが発生しました",
+  "agree": "同意",
+  "disagree": "同意しない",
+  "noPermissions": "権限なし",
+  "appCollectsLocationEvenBackground": "{appName} は、アプリケーションが (バックグラウンドで) 閉じられている場合や使用されていない場合でも、顧客が最寄りのドライバーを見つけることができるように、乗車可能なときに位置情報を収集します。",
+  "@appCollectsLocationEvenBackground": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "locationRequired": "場所が必要です",
+  "enableLocationContinue": "続行するには位置情報を有効にしてください",
+  "activate": "活性化",
+  "goToSettings": "設定に移動",
+  "acessLocationAllTheTime": "いつでも場所にアクセス",
+  "allowAppAcessLocationAllTimesContinue": "続行するには、常に位置情報へのアクセスをアプリに許可してください",
+  "clickOnAdressOpenInMap": "住所をクリックすると地図で開きます",
+  "collect": "収集",
+  "returnCollectLocation": "回収場所に戻る",
+  "boardingAddressNotProvidedContactCustomer": "集荷先住所が提供されていません。顧客に連絡してください。",
+  "accept": "承認",
+  "refuse": "ごみ",
+  "cancelRide": "乗車をキャンセル",
+  "finalizeRide": "ライドのファイナライズ",
+  "markDelivered": "出荷時市場",
+  "passengerBoarded": "搭乗した乗客",
+  "rideStatus": "乗車状況",
+  "driverValue": "ドライバーの価値",
+  "appFee": "アプリ料金",
+  "note": "ノート",
+  "returnCollectionLocation": "回収場所に戻る",
+  "estimatedDistance": "推定距離",
+  "addresses": "住所",
+  "select": "選択する",
+  "returnn": "戻る",
+  "finalize": "ファイナライズ",
+  "rideConfirmedSelectedAddress": "選択した住所への乗車が確認されました。",
+  "rideMarkedAs": "乗車は次のようにマークされました",
+  "rideRequiredReturningFinalizeOnlyAfterArrived": "乗り物は収集場所に戻る必要があり、場所に到着した後にのみ終了します。",
+  "selectWhichAddressRideMade": "乗車した住所を選択",
+  "rideWillBeCanceledAmountRefundedSure": "ライドはキャンセルされ、このアクションは元に戻せません。金額はお客様に返金され、キャンセルの旨が通知されます。続行してもよろしいですか？",
+  "camera": "カメラ",
+  "gallery": "ギャラリー",
+  "updatePhoto": "写真を更新",
+  "cameraAccess": "カメラへのアクセス",
+  "galleryAccess": "ギャラリーへのアクセス",
+  "allowAppAccessThe": "写真を送信できるようにするには、アプリが {accessType} にアクセスすることを許可してください",
+  "@allowAppAccessThe": {
+    "description": "アクセスを許可する",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "画像の送信中にエラーが発生しました。",
+  "balanceDue": "未払い残高",
+  "pay": "支払い",
+  "feeNotPaydOfflinePayment": "オフライン決済で乗車した場合、10% の料金がまだ支払われていません。",
+  "failedUpdate": "更新できませんでした",
+  "dataUpdatedSuccessfully": "データが正常に更新されました",
+  "and": "と",
+  "kilometer": "キロメートル",
+  "mile": "マイル",
+  "km": "キロ",
+  "mi": "ミ",
+  "signinWith": "{socialNetwork} でサインイン",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "電話番号必須",
+  "pending": "保留中",
+  "accepted": "承認済み",
+  "rejected": "却下",
+  "collected": "集めました",
+  "delivered": "配達済み",
+  "cancelled": "キャンセル",
+  "andMoreLocations": "その他の {quantity} か所",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "completed": "完了",
+  "deletingYourAccont": "アカウントの削除",
+  "deleteAccount": "アカウントを削除する",
+  "deleteMyAccount": "アカウントを削除します",
+  "reallyWantDeleteAccontDataWillBeLost": "本当にアカウントを削除しますか?データは完全に失われます。",
+  "vehicleType": "車両タイプ",
+  "brand": "ブランド",
+  "enterVehicleBrand": "車両ブランドを入力してください",
+  "model": "モデル",
+  "enterVehicleModel": "車種を入力",
+  "plate": "皿",
+  "enterVehiclePlate": "車両プレートを入力してください",
+  "vehicleDocument": "車両書類",
+  "enterVehicleDocument": "車両書類を入力してください",
+  "driversLicensePhoto": "運転免許証の写真",
+  "selectVehicleType": "車種を選択",
+  "back": "戻る",
+  "approved": "承認済み",
+  "reproved": "非難された",
+  "dataUnderReview": "あなたのデータは審査中です",
+  "dataBeingAnalyzedByTeamWait": "あなたのデータは私たちのチームによって分析されています。お待ちください。",
+  "needCheckSomeData": "いくつかのデータを確認する必要があります",
+  "editData": "データの編集",
+  "earnings": "収益",
+  "today": "今日",
+  "yesterday": "昨日",
+  "sevenDays": "7日",
+  "chatWithCustomer": "顧客とチャット",
+  "noMessages": "メッセージがありません",
+  "enterAMessage": "メッセージを入力してください",
+  "registerUpdatedSuccessfully": "登録が正常に更新されました",
+  "errorUpdatingRegistrationTryAgain": "登録の更新中にエラーが発生しました。もう一度お試しください。",
+  "fixErrorFieldsTryAgain": "エラー フィールドを修正して、もう一度お試しください",
+  "successfullyRegistered": "正常に登録されました",
+  "errorRegisteringTryAgain": "登録中にエラーが発生しました。もう一度お試しください",
+  "waitSavingRegistration": "お待ちください。登録を保存しています。",
+  "selectImageSource": "画像ソースを選択"
+}

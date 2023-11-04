@@ -1,0 +1,358 @@
+{
+  "home": "Ev",
+  "login": "Giriş yapmak",
+  "logout": "Çıkış Yap",
+  "theName": "İsim",
+  "name": "İsim",
+  "fullName": "Ad Soyad",
+  "enterFullName": "Ad ve soyadınızı girin",
+  "phone": "Telefon",
+  "thePhone": "Telefon",
+  "enterPhoneCorrectly": "Telefonunuzu doğru girin",
+  "enterFullPhoneNumber": "Telefonunuzun tamamını girin",
+  "fantasyName": "fantezi adı",
+  "enterCompanyName": "Şirket adını girin",
+  "email": "E-posta",
+  "enterEmail": "E-postanızı giriniz",
+  "enterValidEmail": "Geçerli bir e-posta giriniz",
+  "emailNotFound": "Email bulunamadı",
+  "waitSendLinkAgain": "Bağlantıyı tekrar göndermek için bekleyin",
+  "password": "Şifre",
+  "thePassword": "bir senha",
+  "enterPassword": "Şifrenizi girin",
+  "enterPasswordConfirmation": "Şifre onayını girin",
+  "confirmPassword": "Parolanızı doğrulayın",
+  "passwordsNotMatch": "Parolalar uyuşmuyor",
+  "incorrectEmailPassword": "yanlış eposta adresi veya şifre",
+  "forgetPassword": "Şifreni mi unuttun?",
+  "loginRequired": "Oturum açmak gereklidir",
+  "errorLogin": "Giriş yaparken hata",
+  "errorRegister": "Kayıt olurken hata",
+  "save": "Kaydetmek",
+  "dontHaveAccount": "Hesabınız yok mu?",
+  "createAccount": "Üye olmak",
+  "registerAsDriver": "Sürücü Olarak Kaydolun",
+  "haveAnAccount": "Bir hesabınız var mı?",
+  "signIn": "Kayıt olmak",
+  "skipForNow": "Şimdilik geç",
+  "skip": "Atlamak",
+  "verifyConnection": "İnternet bağlantınızı doğrulayın",
+  "rememberMe": "Beni hatırla",
+  "menu": "Menü",
+  "wantSignOut": "Çıkış yapmak ister misiniz?",
+  "yes": "Evet",
+  "no": "Numara",
+  "theme": "Tema",
+  "darkTheme": "Karanlık tema",
+  "lightTheme": "hafif tema",
+  "sendLink": "Bağlantıyı gönder",
+  "linkSubmitted": "Bağlantı gönderildi",
+  "errorSendingLink": "Bağlantı gönderilirken hata oluştu",
+  "linkCopied": "Bağlantı kopyalandı",
+  "rides": "Sürüşler",
+  "ride": "Sürmek",
+  "noRides": "Araç bulunamadı",
+  "errorGettingRide": "Sürüş sırasında hata",
+  "rideNotFound": "Yolculuk bulunamadı",
+  "recentRides": "Son sürüşler",
+  "hours": "Saat",
+  "minutes": "dakika",
+  "pickup": "Almak",
+  "table": "Masa",
+  "dateFormat": "yyyy-AA-gg",
+  "datetimeFormat": "yyyy-AA-gg SS:dd",
+  "seeFullRide": "Tam sürüşe bakın",
+  "paymentMethod": "Ödeme şekli",
+  "paymentStatus": "Ödeme durumu",
+  "rideMethod": "Sürüş yöntemi",
+  "tracking": "izleme",
+  "details": "Detaylar",
+  "products": "Ürün:% s",
+  "inProgress": "Devam etmekte",
+  "finalized": "kesinleşti",
+  "customer": "Müşteri",
+  "value": "Tutar",
+  "totalAmount": "Toplam tutar",
+  "subtotal": "ara toplam",
+  "rideFee": "yolculuk ücreti",
+  "coupon": "Kupon",
+  "advanceStatus": "avans durumu",
+  "deleteLastStatus": "Son durumu sil",
+  "inputMinimumSize": "{fieldName\n  } en az {requiredSize\n  } karakter uzunluğunda olmalıdır",
+  "@inputMinimumSize": {
+    "description": "Alanın minimum boyutu",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Şifre"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "profile": "Profil",
+  "settings": "Ayarlar",
+  "navigation": "Navigasyon",
+  "receiveRides": "Sürüş Al",
+  "errorUpdateStatus": "Durum yenilenirken bir hata oluştu, lütfen tekrar deneyin",
+  "errorChangeStatus": "Durum değiştirilirken bir hata oluştu, lütfen tekrar deneyin",
+  "linkRides": "Sürüş Bağlantısı",
+  "yourRideValueSetByYouOrSystemDefault": "Sürüş değeriniz sizin tarafınızdan belirlenir veya sistem varsayılan değerini kullanabilirsiniz.",
+  "next": "Sonraki",
+  "weDontProfitFromYou": "senden kâr etmiyoruz",
+  "youReceiveWhatYouSetInYourValues": "Değerlerinizde tam olarak belirlediğiniz şeyi alırsınız ve müşterinin ödediği tutara %10 gibi küçük bir ücret ekleriz.",
+  "yourLinkRideDirectlyWithYou": "Doğrudan sizinle sürüş bağlantınız",
+  "sendToCustomersAlreadyTrustWorkRidesFallToYou": "Zaten işinize güvenen müşterilere gönderin ve bununla birlikte yolculukları doğrudan size düşüyor.",
+  "muchMoreThoughtDriver": "Sürücünüz için çok daha fazla düşünce!",
+  "possibilityCreateRideTeamMultipleRide": "Uygulama içinde sürüş ekibinizi oluşturma, birden fazla sürüş gerçekleştirme ve çok daha fazlasını yapma imkanı!",
+  "haveDriversLicenseInHandCompleteRegistration": "Şimdi, kaydı tamamlamak için ehliyetinizi elinize alın.",
+  "letsStart": "Hadi başlayalım",
+  "selectAccountType": "Hesap Türünü Seçin",
+  "proceedRegistration": "Kayıt işlemine devam edin",
+  "onlyRideViaLink": "Sadece bağlantı üzerinden sürüyor",
+  "ridesLinkPanel": "Bağlantıya ve panele göre sürüşler",
+  "allowsDeviceCompleteAccountReceiveRidesOrJustLink": "Entrejax, tam bir hesaba sahip olmak ve size yakın yolculuklar almak mı yoksa sadece bağlantı yoluyla (kiminle paylaştığınız) almak mı istediğinize karar vermenize olanak tanır.",
+  "receiveRideEntrejaxAndLink": "Entrejax panosundan yolculukları alın ve bağlantımı alın",
+  "receiveRideLinkOnly": "Yalnızca benim bağlantım üzerinden yolculukları alın",
+  "optionAutomaticallyReceiveRidesPanelAndHaveLink": "Bu seçenekte, bağlantınıza sahip olmayan müşterilerden bile Entrejax panelinden otomatik olarak yolculuklar alabileceksiniz, ancak belgelerinizi doğrulamamız ve onaylamamız gerekecek.",
+  "optionMustShareLink": "Bu seçenekte, yalnızca bağlantınıza sahip olan müşteriler bunu isteyebilecektir. Bağlantınızı müşterilerinizle paylaşmalısınız ve yakındaki yolculuklar için Entrejax panosunda görünmeyecektir.",
+  "registration": "Kayıt",
+  "register": "Kayıt ol",
+  "wantToLeaveRegistration": "Kayıttan çıkmak istiyor musunuz?",
+  "exitingRegistrationDataLost": "Kayıttan çıkıldığında, girilen tüm veriler kaybolacaktır.",
+  "cancel": "İptal",
+  "declareHaveReadAgreed": "Kaydolarak, sözleşmemizi okuduğunuzu ve kabul ettiğinizi beyan etmiş olursunuz.",
+  "termsUsePrivacyPolicy": "Kullanım ve gizlilik politikası şartları",
+  "leave": "Terk etmek",
+  "youDontHaveAnyRides": "hiç araban yok",
+  "newRideReceived": "Yeni Yolculuk Alındı!",
+  "searchingRides": "Sürüş Arama",
+  "noLocationPermission": "Konum izni yok",
+  "errorFetchingStatus": "Durum getirilirken hata oluştu",
+  "errorConnectingMercadoPago": "Mercado Pago'ya bağlanırken hata oluştu",
+  "errorDisconnectingAccount": "Hesap bağlantısı kesilirken hata oluştu",
+  "errorUpdatingSetting": "Ayarlar güncellenirken hata oluştu",
+  "loadMore": "Daha fazla yükle",
+  "requestedBy": "tarafından talep edildi",
+  "boardingAddress": "Adresi almak",
+  "rideAddress": "Adres",
+  "rideAddresses": "Adresler",
+  "viewCompleteRide": "Tam Sürüşü Görüntüle",
+  "termsUse": "Kullanım Şartları",
+  "privacyPolicy": "Gizlilik Politikası",
+  "tryAgain": "Tekrar deneyin",
+  "support": "Destek",
+  "accountSupport": "Hesap desteği",
+  "disconnected": "Bağlantı kesildi",
+  "connected": "bağlı",
+  "connect": "Bağlamak",
+  "disconnect": "bağlantıyı kes",
+  "connectMyMercadoPago": "Mercado Pago'mu bağla",
+  "waitConnecting": "Lütfen bekleyin, bağlanıyor",
+  "continuee": "Devam et",
+  "saveValues": "Değerleri Kaydet",
+  "feeEachAdditionalStop": "Güzergah üzerindeki her ilave durak için ücret",
+  "enterFeePerStop": "Durak başına ücreti girin",
+  "feePerStop": "Durak Başına Ücret",
+  "valueReturnPickupSite": "Teslim alma sitesine dönüşün {distanceUnit\n  } değeri",
+  "@valueReturnPickupSite": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterValueReturn": "{distanceUnit\n  } dönüşünün değerini girin",
+  "@enterValueReturn": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "returnDistance": "{distanceUnit\n  } döndür",
+  "@returnDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "valueAdditionalBaseDistance": "Temel mesafenin ek {distanceUnit\n  } başına değer",
+  "@valueAdditionalBaseDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterDistanceValue": "{distanceUnit\n  } değerini girin",
+  "@enterDistanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "distanceValue": "{distanceUnit\n  } Değeri",
+  "@distanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "initialValueWithoutChargingAdditional": "Başlangıç değerinin ek {distanceUnit\n  } ücreti ödemeden yetkilendireceği {distanceUnit\n  }(ler)",
+  "@initialValueWithoutChargingAdditional": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterBaseDistance": "Taban mesafesini girin",
+  "baseDistance": "Taban mesafesi",
+  "amountInitiallyCharged": "Başlangıçta tahsil edilen tutar",
+  "enterBaseAmount": "Temel tutarı girin",
+  "baseAmount": "Baz miktar",
+  "attention": "Dikkat",
+  "theValuesWillResetAppBase": "Girilen değerler, uygulamanın temel değerine sıfırlanacak. Devam etmek istiyor musunuz?",
+  "useAppBaseValue": "Uygulama temel değerini kullan",
+  "configureRideFeeValues": "Sürüş ücreti değerlerinizi yapılandırın",
+  "needCreditCardMachineRideMercadoPagoDiscount": "Kredi kartı makinesine mi ihtiyacınız var? Buraya dokunarak Mercado Pago'dan %83'e varan indirimle binin",
+  "activateOfflinePaymentDebitCard": "Banka Kartı ile Çevrimdışı Ödemeyi Etkinleştir (makinenizin olması gerekir)",
+  "activateOfflinePaymentCreditCard": "Kredi Kartı ile Çevrimdışı Ödemeyi Etkinleştir (makinenizin olması gerekir)",
+  "activateCashPayment": "Nakit Ödemeyi Etkinleştir",
+  "activateOnlyPaymentMercadoPago": "Mercado Pago ile Çevrimiçi Ödemeyi Etkinleştir (ödeme, yukarıda bağlı Mercado Pago hesabına anında gönderilir)",
+  "settingHaveBeenSaved": "Ayarlar kaydedildi",
+  "errorUpdatingPaymentMethods": "Ödeme yöntemleri güncellenirken bir hata oluştu",
+  "agree": "Kabul etmek",
+  "disagree": "Aynı fikirde olmamak",
+  "noPermissions": "izin yokmu",
+  "appCollectsLocationEvenBackground": "{appName\n  }, uygulama kapalıyken (arka planda) veya kullanımda değilken bile müşterinin en yakın sürücüleri bulmasını sağlamak için, sürüş için uygun olduğunuzda konumunuzu toplar.",
+  "@appCollectsLocationEvenBackground": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "locationRequired": "Konum Gerekli",
+  "enableLocationContinue": "Devam etmek için konumu etkinleştir",
+  "activate": "etkinleştir",
+  "goToSettings": "Ayarlara git",
+  "acessLocationAllTheTime": "Her Zaman Konum Erişimi",
+  "allowAppAcessLocationAllTimesContinue": "Devam etmek için uygulamanın konumunuza her zaman erişmesine izin verin",
+  "clickOnAdressOpenInMap": "Haritada açmak için adrese tıklayın",
+  "collect": "Toplamak",
+  "returnCollectLocation": "Toplama Konumuna Dön",
+  "boardingAddressNotProvidedContactCustomer": "Teslim alma adresi sağlanmadı, lütfen müşteriyle iletişime geçin.",
+  "accept": "Kabul",
+  "refuse": "Reddetmek",
+  "cancelRide": "Sürüşü İptal Et",
+  "finalizeRide": "Sürüşü Sonlandır",
+  "markDelivered": "Teslimat Olarak Pazar",
+  "passengerBoarded": "yolcu bindi",
+  "rideStatus": "Sürüş Durumu",
+  "driverValue": "Sürücü Değeri",
+  "appFee": "Uygulama Ücreti",
+  "note": "Not",
+  "returnCollectionLocation": "Toplama Konumuna Dön",
+  "estimatedDistance": "Tahmini Mesafe",
+  "addresses": "adresler",
+  "select": "Seçme",
+  "returnn": "Dönüş",
+  "finalize": "Sonuçlandırmak",
+  "rideConfirmedSelectedAddress": "Seçilen adrese yolculuk onaylandı.",
+  "rideMarkedAs": "Yolculuk olarak işaretlendi",
+  "rideRequiredReturningFinalizeOnlyAfterArrived": "Yolculuk, toplama yerine geri dönmeyi gerektirir, ancak siz konuma vardıktan sonra kesinleşir.",
+  "selectWhichAddressRideMade": "Yolculuğun hangi adrese yapıldığını seçin",
+  "rideWillBeCanceledAmountRefundedSure": "Yolculuk iptal edilecek ve bu işlem geri alınamaz. Tutar müşteriye iade edilecek ve iptali size bildireceğiz. Devam etmek istediğine emin misin?",
+  "camera": "Kamera",
+  "gallery": "Galeri",
+  "updatePhoto": "Fotoğrafı Güncelle",
+  "cameraAccess": "Kamera Erişimi",
+  "galleryAccess": "Galeriye Erişim",
+  "allowAppAccessThe": "Fotoğraf gönderebilmek için uygulamanın {accessType\n  }'a erişmesine izin verin",
+  "@allowAppAccessThe": {
+    "description": "Erişime izin vermek",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Resim gönderilirken bir hata oluştu.",
+  "balanceDue": "Bakiye Vadesi",
+  "pay": "Ödemek",
+  "feeNotPaydOfflinePayment": "Offline ödemeli yolculuklar için %10 ücret henüz ödenmedi.",
+  "failedUpdate": "Güncelleme başarısız oldu",
+  "dataUpdatedSuccessfully": "Veriler başarıyla güncellendi",
+  "and": "ve",
+  "kilometer": "Kilometre",
+  "mile": "Mil",
+  "km": "Km",
+  "mi": "Mi",
+  "signinWith": "{socialNetwork\n  } ile oturum açın",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Telefon Numarası Gerekli",
+  "pending": "Askıda olması",
+  "accepted": "Kabul edilmiş",
+  "rejected": "Reddedildi",
+  "collected": "Toplanmış",
+  "delivered": "Teslim edilmiş",
+  "cancelled": "İptal edildi",
+  "andMoreLocations": "ve daha fazla {quantity\n  } konum",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "completed": "Tamamlanmış",
+  "deletingYourAccont": "Hesabınızı silme",
+  "deleteAccount": "Hesabı sil",
+  "deleteMyAccount": "Hesabımı sil",
+  "reallyWantDeleteAccontDataWillBeLost": "Hesabınızı gerçekten silmek istiyor musunuz? Verileriniz kalıcı olarak kaybolacak.",
+  "vehicleType": "Araç tipi",
+  "brand": "Marka",
+  "enterVehicleBrand": "Araç markasını girin",
+  "model": "modeli",
+  "enterVehicleModel": "Araç modelini girin",
+  "plate": "Plaka",
+  "enterVehiclePlate": "Araç plakasını girin",
+  "vehicleDocument": "Araç belgesi",
+  "enterVehicleDocument": "Araç belgesini girin",
+  "driversLicensePhoto": "Ehliyet fotoğrafı",
+  "selectVehicleType": "Bir araç türü seçin",
+  "back": "Geri",
+  "approved": "Onaylı",
+  "reproved": "azarlandı",
+  "dataUnderReview": "Verileriniz inceleniyor",
+  "dataBeingAnalyzedByTeamWait": "Verileriniz ekibimiz tarafından analiz ediliyor, bekleyin.",
+  "needCheckSomeData": "Bazı verileri kontrol etmeniz gerekiyor",
+  "editData": "Verileri Düzenle",
+  "earnings": "Kazanç",
+  "today": "Bugün",
+  "yesterday": "Dün",
+  "sevenDays": "7 gün",
+  "chatWithCustomer": "müşteri ile sohbet",
+  "noMessages": "Mesaj yok",
+  "enterAMessage": "bir mesaj girin",
+  "registerUpdatedSuccessfully": "Kayıt başarıyla güncellendi",
+  "errorUpdatingRegistrationTryAgain": "Kayıt güncellenirken hata oluştu, lütfen tekrar deneyin.",
+  "fixErrorFieldsTryAgain": "Hata alanlarını düzeltin ve tekrar deneyin",
+  "successfullyRegistered": "Başarıyla kaydedildi",
+  "errorRegisteringTryAgain": "Kaydolma hatası, lütfen tekrar deneyin",
+  "waitSavingRegistration": "Lütfen bekleyin, kaydınızı kaydediyoruz",
+  "selectImageSource": "Görüntü kaynağını seçin"
+}

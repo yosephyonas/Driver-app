@@ -1,0 +1,358 @@
+{
+  "home": "Hem",
+  "login": "Logga in",
+  "logout": "Logga ut",
+  "theName": "Namnet",
+  "name": "namn",
+  "fullName": "Fullständiga namn",
+  "enterFullName": "Ange ditt fullständiga namn",
+  "phone": "Telefon",
+  "thePhone": "Telefonen",
+  "enterPhoneCorrectly": "Ange din telefon korrekt",
+  "enterFullPhoneNumber": "Ange hela din telefon",
+  "fantasyName": "Fantasinamn",
+  "enterCompanyName": "Ange företagets namn",
+  "email": "E-post",
+  "enterEmail": "Skriv in din e-postadress",
+  "enterValidEmail": "Ange en giltig e-postadress",
+  "emailNotFound": "E-post hittades inte",
+  "waitSendLinkAgain": "Vänta med att skicka länken igen",
+  "password": "Lösenord",
+  "thePassword": "En senha",
+  "enterPassword": "Ange ditt lösenord",
+  "enterPasswordConfirmation": "Ange lösenordsbekräftelse",
+  "confirmPassword": "Bekräfta ditt lösenord",
+  "passwordsNotMatch": "Lösenorden matchar inte",
+  "incorrectEmailPassword": "Felaktig e-postadress eller lösenord",
+  "forgetPassword": "Glömt ditt lösenord?",
+  "loginRequired": "Inloggning Krävs",
+  "errorLogin": "Fel vid inloggning",
+  "errorRegister": "Fel vid registrering",
+  "save": "Spara",
+  "dontHaveAccount": "Har du inget konto?",
+  "createAccount": "Bli Medlem",
+  "registerAsDriver": "Registrera dig som förare",
+  "haveAnAccount": "Har ett konto?",
+  "signIn": "Logga in",
+  "skipForNow": "Hoppa över nu",
+  "skip": "Hoppa",
+  "verifyConnection": "Verifiera din internetanslutning",
+  "rememberMe": "Kom ihåg mig",
+  "menu": "Meny",
+  "wantSignOut": "Vill du logga ut?",
+  "yes": "Ja",
+  "no": "Nej",
+  "theme": "Tema",
+  "darkTheme": "Mörkt tema",
+  "lightTheme": "Lätt tema",
+  "sendLink": "Skicka länk",
+  "linkSubmitted": "Länk skickad",
+  "errorSendingLink": "Det gick inte att skicka länk",
+  "linkCopied": "Länken har kopierats",
+  "rides": "Rider",
+  "ride": "Rida",
+  "noRides": "Inga turer hittades",
+  "errorGettingRide": "Det gick inte att hämta skjuts",
+  "rideNotFound": "Åkturen hittades inte",
+  "recentRides": "Senaste turer",
+  "hours": "Timmar",
+  "minutes": "Minuter",
+  "pickup": "Plocka upp",
+  "table": "Tabell",
+  "dateFormat": "åååå-MM-dd",
+  "datetimeFormat": "åååå-MM-dd TT:mm",
+  "seeFullRide": "Se hela turen",
+  "paymentMethod": "Betalningsmetod",
+  "paymentStatus": "Betalningsstatus",
+  "rideMethod": "Åkmetoden",
+  "tracking": "Spårning",
+  "details": "Detaljer",
+  "products": "Produkter",
+  "inProgress": "Pågående",
+  "finalized": "Avslutade",
+  "customer": "Kund",
+  "value": "Belopp",
+  "totalAmount": "Totala summan",
+  "subtotal": "Delsumma",
+  "rideFee": "Åkavgift",
+  "coupon": "Kupong",
+  "advanceStatus": "förskottsstatus",
+  "deleteLastStatus": "Ta bort senaste status",
+  "inputMinimumSize": "{fieldName\n  } måste vara minst {requiredSize\n  } tecken lång",
+  "@inputMinimumSize": {
+    "description": "Minsta storlek på fältet",
+    "placeholders": {
+      "fieldName": {
+        "type": "String",
+        "example": "Lösenord"
+      },
+      "requiredSize": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "profile": "Profil",
+  "settings": "inställningar",
+  "navigation": "Navigering",
+  "receiveRides": "Ta emot turer",
+  "errorUpdateStatus": "Ett fel uppstod när statusen uppdaterades, försök igen",
+  "errorChangeStatus": "Ett fel uppstod när statusen ändrades, försök igen",
+  "linkRides": "Länk till Rides",
+  "yourRideValueSetByYouOrSystemDefault": "Ditt åkvärde ställs in av dig eller så kan du använda systemets standardvärde.",
+  "next": "Nästa",
+  "weDontProfitFromYou": "Vi tjänar inte på dig",
+  "youReceiveWhatYouSetInYourValues": "Du får precis vad du ställer in i dina värden och vi lägger till en liten avgift på 10% på det belopp som kunden betalar.",
+  "yourLinkRideDirectlyWithYou": "Din länk för att åka direkt med dig",
+  "sendToCustomersAlreadyTrustWorkRidesFallToYou": "Skicka den till kunder som redan litar på ditt arbete och med det faller deras åk direkt till dig.",
+  "muchMoreThoughtDriver": "Mycket mer tanke för din förare!",
+  "possibilityCreateRideTeamMultipleRide": "Möjlighet att skapa ditt åkteam i appen, genomföra flera åk och mycket mer!",
+  "haveDriversLicenseInHandCompleteRegistration": "Ha nu ditt körkort i handen för att slutföra registreringen",
+  "letsStart": "Låt oss börja",
+  "selectAccountType": "Välj Kontotyp",
+  "proceedRegistration": "Fortsätt till registrering",
+  "onlyRideViaLink": "Åker endast via länken",
+  "ridesLinkPanel": "Rider via länk och panel",
+  "allowsDeviceCompleteAccountReceiveRidesOrJustLink": "Entrejax låter dig bestämma om du vill ha ett komplett konto och ta emot turer nära dig eller bara ta emot via länken (till vem du delar).",
+  "receiveRideEntrejaxAndLink": "Ta emot turer från Entrejax instrumentpanel och ha min länk",
+  "receiveRideLinkOnly": "Ta endast emot turer via min länk",
+  "optionAutomaticallyReceiveRidesPanelAndHaveLink": "I det här alternativet kommer du att automatiskt kunna ta emot åkningar från Entrejax-panelen, även från kunder som inte har din länk, men vi kommer att behöva verifiera och validera dina dokument.",
+  "optionMustShareLink": "I det här alternativet kommer bara kunder som har din länk att kunna be om den. Du måste dela din länk med dina kunder och kommer inte att visas för turer i närheten på Entrejax instrumentpanel.",
+  "registration": "Registrering",
+  "register": "Registrera",
+  "wantToLeaveRegistration": "Vill du lämna registreringen?",
+  "exitingRegistrationDataLost": "När du avslutar registreringen kommer alla uppgifter som redan har angetts att gå förlorade.",
+  "cancel": "Avbryt",
+  "declareHaveReadAgreed": "Genom att registrera dig intygar du att du har läst och godkänner vår",
+  "termsUsePrivacyPolicy": "Användarvillkor och sekretesspolicy",
+  "leave": "Lämna",
+  "youDontHaveAnyRides": "Du har inga turer",
+  "newRideReceived": "Ny åktur mottagen!",
+  "searchingRides": "Söker åkattraktioner",
+  "noLocationPermission": "Ingen platsbehörighet",
+  "errorFetchingStatus": "Det gick inte att hämta status",
+  "errorConnectingMercadoPago": "Det gick inte att ansluta till Mercado Pago",
+  "errorDisconnectingAccount": "Det gick inte att koppla bort kontot",
+  "errorUpdatingSetting": "Fel vid uppdatering av inställningar",
+  "loadMore": "Ladda mer",
+  "requestedBy": "Efterfrågad av",
+  "boardingAddress": "Ta upp adress",
+  "rideAddress": "Åkadress",
+  "rideAddresses": "Åkadresser",
+  "viewCompleteRide": "Se komplett åktur",
+  "termsUse": "Villkor",
+  "privacyPolicy": "Integritetspolicy",
+  "tryAgain": "Försök igen",
+  "support": "Stöd",
+  "accountSupport": "Kontostöd",
+  "disconnected": "Osammanhängande",
+  "connected": "Ansluten",
+  "connect": "Ansluta",
+  "disconnect": "Koppla ifrån",
+  "connectMyMercadoPago": "Anslut min Mercado Pago",
+  "waitConnecting": "Vänta, ansluter",
+  "continuee": "Fortsätta",
+  "saveValues": "Spara värden",
+  "feeEachAdditionalStop": "Avgift för varje ytterligare stopp på sträckan",
+  "enterFeePerStop": "Ange pris per stopp",
+  "feePerStop": "Avgift per stopp",
+  "valueReturnPickupSite": "Värdet på {distanceUnit\n  } för retur till upphämtningsplatsen",
+  "@valueReturnPickupSite": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterValueReturn": "Ange värdet på returen {distanceUnit\n  }",
+  "@enterValueReturn": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "returnDistance": "Returnera {distanceUnit\n  }",
+  "@returnDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "valueAdditionalBaseDistance": "Värde per ytterligare {distanceUnit\n  } av basavståndet",
+  "@valueAdditionalBaseDistance": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterDistanceValue": "Ange värdet för {distanceUnit\n  }",
+  "@enterDistanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "distanceValue": "{distanceUnit\n  } Värde",
+  "@distanceValue": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "initialValueWithoutChargingAdditional": "{distanceUnit\n  }(er) som det initiala värdet ger utan att debitera ytterligare {distanceUnit\n  }",
+  "@initialValueWithoutChargingAdditional": {
+    "placeholders": {
+      "distanceUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "enterBaseDistance": "Ange basavståndet",
+  "baseDistance": "Basavstånd",
+  "amountInitiallyCharged": "Belopp som ursprungligen debiterades",
+  "enterBaseAmount": "Ange basbeloppet",
+  "baseAmount": "Basbelopp",
+  "attention": "Uppmärksamhet",
+  "theValuesWillResetAppBase": "De angivna värdena kommer att återställas till appens basvärde. Vill du fortsätta?",
+  "useAppBaseValue": "Använd appbasvärde",
+  "configureRideFeeValues": "Konfigurera dina åkavgiftsvärden",
+  "needCreditCardMachineRideMercadoPagoDiscount": "Behöver du en kreditkortsmaskin? Åk den från Mercado Pago med upp till 83 % rabatt genom att trycka här",
+  "activateOfflinePaymentDebitCard": "Aktivera offlinebetalning med betalkort (du måste ha din maskin)",
+  "activateOfflinePaymentCreditCard": "Aktivera offlinebetalning med kreditkort (du måste ha din maskin)",
+  "activateCashPayment": "Aktivera Kontantbetalning",
+  "activateOnlyPaymentMercadoPago": "Aktivera onlinebetalning med Mercado Pago (betalning skickas direkt till Mercado Pago-kontot som är anslutet ovan)",
+  "settingHaveBeenSaved": "Inställningarna har sparats",
+  "errorUpdatingPaymentMethods": "Det uppstod ett fel när betalningsmetoderna skulle uppdateras",
+  "agree": "Hålla med",
+  "disagree": "Instämmer inte alls",
+  "noPermissions": "inga tillstånd",
+  "appCollectsLocationEvenBackground": "{appName\n  } samlar in din plats när du är tillgänglig för turer så att kunden kan hitta närmaste förare även när applikationen är stängd (i bakgrunden) eller inte används.",
+  "@appCollectsLocationEvenBackground": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "locationRequired": "Plats krävs",
+  "enableLocationContinue": "Aktivera plats för att fortsätta",
+  "activate": "Aktivera",
+  "goToSettings": "Gå till Inställningar",
+  "acessLocationAllTheTime": "Tillgång till plats hela tiden",
+  "allowAppAcessLocationAllTimesContinue": "Tillåt appen att alltid komma åt din plats för att fortsätta",
+  "clickOnAdressOpenInMap": "Klicka på adressen för att öppna den på kartan",
+  "collect": "Samla",
+  "returnCollectLocation": "Återgå till insamlingsplatsen",
+  "boardingAddressNotProvidedContactCustomer": "Upphämtningsadress har inte angetts, kontakta kunden.",
+  "accept": "Acceptera",
+  "refuse": "Vägra",
+  "cancelRide": "Avbryt färd",
+  "finalizeRide": "Avsluta åkturen",
+  "markDelivered": "Marknad efter leverans",
+  "passengerBoarded": "Passagerare gick ombord",
+  "rideStatus": "Åkstatus",
+  "driverValue": "Drivrutinsvärde",
+  "appFee": "Appavgift",
+  "note": "Notera",
+  "returnCollectionLocation": "Återgå till insamlingsplatsen",
+  "estimatedDistance": "Beräknat avstånd",
+  "addresses": "Adresser",
+  "select": "Välj",
+  "returnn": "Lämna tillbaka",
+  "finalize": "Avsluta",
+  "rideConfirmedSelectedAddress": "Körningen har bekräftats till den valda adressen.",
+  "rideMarkedAs": "Resan var markerad som",
+  "rideRequiredReturningFinalizeOnlyAfterArrived": "Resan kräver att du återvänder till uppsamlingsplatsen, avsluta först efter att du har anlänt till platsen.",
+  "selectWhichAddressRideMade": "Välj till vilken adress resan gjordes",
+  "rideWillBeCanceledAmountRefundedSure": "Åkturen kommer att avbrytas och denna åtgärd är oåterkallelig. Beloppet återbetalas till kunden och vi meddelar dig om avbokningen. Är du säker på att du vill fortsätta?",
+  "camera": "Kamera",
+  "gallery": "Galleri",
+  "updatePhoto": "Uppdatera foto",
+  "cameraAccess": "Kameraåtkomst",
+  "galleryAccess": "Tillgång till Galleri",
+  "allowAppAccessThe": "Tillåt appen att komma åt {accessType\n  } för att kunna skicka foton",
+  "@allowAppAccessThe": {
+    "description": "Tillåta åtkomst",
+    "placeholders": {
+      "accessType": {
+        "type": "String"
+      }
+    }
+  },
+  "thereWasErrorSendingImage": "Det gick inte att skicka bilden.",
+  "balanceDue": "Resterande belopp",
+  "pay": "Betala",
+  "feeNotPaydOfflinePayment": "10 % avgift som ännu inte har betalats för resor med offlinebetalning.",
+  "failedUpdate": "Det gick inte att uppdatera",
+  "dataUpdatedSuccessfully": "Data har uppdaterats",
+  "and": "och",
+  "kilometer": "Kilometer",
+  "mile": "Mile",
+  "km": "Km",
+  "mi": "Mi",
+  "signinWith": "Logga in med {socialNetwork\n  }",
+  "@signinWith": {
+    "placeholders": {
+      "socialNetwork": {
+        "type": "String"
+      }
+    }
+  },
+  "phoneNumberRequired": "Telefonnummer krävs",
+  "pending": "I väntan på",
+  "accepted": "Accepterad",
+  "rejected": "avvisade",
+  "collected": "Samlade in",
+  "delivered": "Levereras",
+  "cancelled": "Inställt",
+  "andMoreLocations": "och fler {quantity\n  } platser",
+  "@andMoreLocations": {
+    "placeholders": {
+      "quantity": {
+        "type": "String"
+      }
+    }
+  },
+  "completed": "Avslutad",
+  "deletingYourAccont": "Ta bort ditt konto",
+  "deleteAccount": "Radera konto",
+  "deleteMyAccount": "Ta bort mitt konto",
+  "reallyWantDeleteAccontDataWillBeLost": "Vill du verkligen ta bort ditt konto? Din data kommer att gå förlorad permanent.",
+  "vehicleType": "Fordonstyp",
+  "brand": "varumärke",
+  "enterVehicleBrand": "Ange fordonsmärke",
+  "model": "Modell",
+  "enterVehicleModel": "Ange fordonsmodell",
+  "plate": "Tallrik",
+  "enterVehiclePlate": "Ange fordonsskylten",
+  "vehicleDocument": "Fordonsdokument",
+  "enterVehicleDocument": "Ange fordonsdokument",
+  "driversLicensePhoto": "Körkortsfoto",
+  "selectVehicleType": "Välj en fordonstyp",
+  "back": "Tillbaka",
+  "approved": "Godkänd",
+  "reproved": "Tillrättavisad",
+  "dataUnderReview": "Dina uppgifter är under granskning",
+  "dataBeingAnalyzedByTeamWait": "Din data analyseras av vårt team, vänta bara.",
+  "needCheckSomeData": "Du måste kontrollera vissa uppgifter",
+  "editData": "Redigera data",
+  "earnings": "Förtjänst",
+  "today": "I dag",
+  "yesterday": "I går",
+  "sevenDays": "7 dagar",
+  "chatWithCustomer": "Chatta med kunden",
+  "noMessages": "Inga meddelanden",
+  "enterAMessage": "Ange ett meddelande",
+  "registerUpdatedSuccessfully": "Registreringen har uppdaterats",
+  "errorUpdatingRegistrationTryAgain": "Det gick inte att uppdatera registreringen, försök igen.",
+  "fixErrorFieldsTryAgain": "Åtgärda felfälten och försök igen",
+  "successfullyRegistered": "Registrerad framgångsrikt",
+  "errorRegisteringTryAgain": "Det gick inte att registrera, försök igen",
+  "waitSavingRegistration": "Vänta, vi sparar din registrering",
+  "selectImageSource": "Välj bildkälla"
+}
